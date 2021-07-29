@@ -5,7 +5,6 @@
 // @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
 // @grant    GM_addStyle
 // @grant    GM.getValue
-// @grant    GM_setValue
 //@include           https://*
 // @include         http://www.google.*
 // @include         https://www.google.*
@@ -48,4 +47,3 @@ highlightWord('åklagare');
 highlightWord('Världsnaturfonden');
 highlightWord('smycken');
 highlightWord('inneburit');
-highlightWord('innebär');
