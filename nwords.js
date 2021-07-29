@@ -40,3 +40,6 @@ highlightWord('särskilda');
 highlightWord('tingsrätten');
 highlightWord('myndigheten');
 highlightWord('källar');
+highlightWord('torsdag');
+highlightWord('torsdag');
+highlightWord('översvämningar');
