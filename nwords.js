@@ -39,8 +39,4 @@ highlightWord('tingsrätten');
 highlightWord('myndigheten');
 highlightWord('källar');
 highlightWord('torsdag');
-highlightWord('översvämningar');
-highlightWord('motståndare');
-highlightWord('åklagare');
-highlightWord('Världsnaturfonden');
-highlightWord('smycken');
+
