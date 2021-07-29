@@ -46,3 +46,4 @@ highlightWord('översvämningar');
 highlightWord('motståndare');
 highlightWord('åklagare');
 highlightWord('Världsnaturfonden');
+highlightWord('smycken');
