@@ -48,3 +48,4 @@ highlightWord('smycken');
 highlightWord('inneburit');
 highlightWord('satsning');
 highlightWord('utrymmet');
+highlightWord('medgett');
