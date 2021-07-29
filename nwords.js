@@ -36,5 +36,6 @@ function highlightWord(word) {
 }
 highlightWord('ursprungligen');
 highlightWord('särskilda');
+highlightWord('anställ');
 
 
