@@ -50,3 +50,4 @@ highlightWord('smycken');
 highlightWord('inneburit');
 highlightWord('innebär');
 highlightWord('anställd');
+highlightWord('antäll');
