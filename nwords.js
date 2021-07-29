@@ -34,7 +34,15 @@ function highlightWord(word) {
         p.replaceChild(frag, textNode);
     }
 }
-highlightWord('ursprungligen'); highlightWord('antäll'); highlightWord('särskilda'); highlightWord('tingsrätten'); 
-highlightWord('myndigheten'); highlightWord('källar'); highlightWord('översvämningar'); highlightWord('motståndare'); 
-highlightWord('åklagare'); highlightWord('Världsnaturfonden'); highlightWord('smycken'); highlightWord('inneburit'); 
-highlightWord('innebär'); highlightWord('anställd'); highlightWord('antäll');
+highlightWord('ursprungligen');
+highlightWord('särskilda');
+highlightWord('tingsrätten');
+highlightWord('myndigheten');
+highlightWord('källar');
+highlightWord('torsdag');
+highlightWord('översvämningar');
+highlightWord('motståndare');
+highlightWord('åklagare');
+highlightWord('Världsnaturfonden');
+highlightWord('smycken');
+highlightWord('inneburit');
