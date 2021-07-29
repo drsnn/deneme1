@@ -43,3 +43,6 @@ highlightWord('källar');
 highlightWord('torsdag');
 highlightWord('torsdag');
 highlightWord('översvämningar');
+highlightWord('motståndare');
+highlightWord('åklagare');
+highlightWord('Världsnaturfonden');
