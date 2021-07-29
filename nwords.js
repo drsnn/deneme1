@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Highlight Text new
-// @version      0.51
+// @version      0.01
 // @description Highlights text within HTML
 // @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
 // @grant    GM_addStyle
@@ -41,7 +41,6 @@ highlightWord('särskilda');
 highlightWord('tingsrätten');
 highlightWord('myndigheten');
 highlightWord('källar');
-highlightWord('torsdag');
 highlightWord('torsdag');
 highlightWord('översvämningar');
 highlightWord('motståndare');
