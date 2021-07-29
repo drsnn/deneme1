@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name        Highlight Text new
+// @version      0.51
 // @description Highlights text within HTML
-// @require  file:///Users/sinancaliskan/Documents/nword/nwords.js
+// @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
 // @grant    GM_addStyle
 // @grant    GM.getValue
 // @grant    GM_setValue
