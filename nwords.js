@@ -3,7 +3,6 @@
 // @version      0.01
 // @description Highlights text within HTML
 // @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
-// @grant    GM_addStyle
 // @grant    GM.getValue
 //@include           https://*
 // @include         http://www.google.*
@@ -35,15 +34,7 @@ function highlightWord(word) {
         p.replaceChild(frag, textNode);
     }
 }
-highlightWord('ursprungligen');
-highlightWord('särskilda');
-highlightWord('tingsrätten');
-highlightWord('myndigheten');
-highlightWord('källar');
-highlightWord('torsdag');
-highlightWord('översvämningar');
-highlightWord('motståndare');
-highlightWord('åklagare');
-highlightWord('Världsnaturfonden');
-highlightWord('smycken');
-highlightWord('inneburit');
+highlightWord('ursprungligen'); highlightWord('antäll'); highlightWord('särskilda'); highlightWord('tingsrätten'); 
+highlightWord('myndigheten'); highlightWord('källar'); highlightWord('översvämningar'); highlightWord('motståndare'); 
+highlightWord('åklagare'); highlightWord('Världsnaturfonden'); highlightWord('smycken'); highlightWord('inneburit'); 
+highlightWord('innebär'); highlightWord('anställd'); highlightWord('antäll');
