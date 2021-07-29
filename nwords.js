@@ -40,3 +40,5 @@ highlightWord('särskilda');
 highlightWord('anställ');
 highlightWord('motståndare');
 highlightWord('stavhopp');
+highlightWord('hävstång');
+highlightWord('stavhoppare');
