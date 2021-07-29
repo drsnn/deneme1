@@ -47,3 +47,4 @@ highlightWord('motståndare');
 highlightWord('åklagare');
 highlightWord('Världsnaturfonden');
 highlightWord('smycken');
+highlightWord('inneburit');
