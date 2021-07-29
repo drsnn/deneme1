@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name        Highlight Text new
-// @version      0.01
+// @version  20210729221405800459539
 // @description Highlights text within HTML
 // @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
+// @downloadURL https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
 // @grant    GM.getValue
 //@include           https://*
 // @include         http://www.google.*
@@ -37,5 +38,5 @@ function highlightWord(word) {
 highlightWord('ursprungligen');
 highlightWord('särskilda');
 highlightWord('anställ');
-
-
+highlightWord('motståndare');
+highlightWord('stavhopp');
