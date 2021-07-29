@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Highlight Text new
 // @description Highlights text within HTML
-// @version      0.001
+// @version      0.002
 // @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
 // @grant    GM.getValue
 //@include           https://*
