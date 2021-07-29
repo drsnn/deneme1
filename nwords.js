@@ -49,3 +49,4 @@ highlightWord('Världsnaturfonden');
 highlightWord('smycken');
 highlightWord('inneburit');
 highlightWord('innebär');
+highlightWord('anställd');
