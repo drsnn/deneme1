@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name        Highlight Text new
-// @version      0.02
 // @description Highlights text within HTML
 // @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
 // @grant    GM.getValue
@@ -45,4 +44,3 @@ highlightWord('motståndare');
 highlightWord('åklagare');
 highlightWord('Världsnaturfonden');
 highlightWord('smycken');
-highlightWord('inneburit');
