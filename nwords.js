@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Highlight Text new
-// @version  20210731134053492536299
+// @version  20210731235838863186019
 // @description Highlights text within HTML
 // @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
 // @downloadURL https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
@@ -49,3 +49,6 @@ highlightWord('bokningstryck');
 highlightWord('häromdagen'); 
 highlightWord('kassaskåp'); 
 highlightWord('trängsel');
+highlightWord('bältrosvaccinet'); 
+highlightWord('vattkoppor'); 
+highlightWord('kostnadsfritt'); 
