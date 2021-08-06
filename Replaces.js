@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Replace Text sina
+// @name           Replace Text sin
 // @description    Replaces text on websites.
 // @include        http://*
 // @include        https://*

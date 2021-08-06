@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Highlight Text new
+// @name        Highlight Text Sin
 // @version  20210806215659790197119
 // @description Highlights text within HTML
 // @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
