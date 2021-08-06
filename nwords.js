@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Highlight Text new
-// @version  20210806114758424789749
+// @version  20210806214636783961299
 // @description Highlights text within HTML
 // @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
 // @downloadURL https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
@@ -60,3 +60,4 @@ highlightWord('borrar sig');
 highlightWord('bevisen'); 
 highlightWord('drönare'); 
 highlightWord('åtgärder');
+highlightWord('oroande'); 

@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Replace Text On Webpages orginal
+// @name           Replace Text sina
 // @description    Replaces text on websites.
 // @include        http://*
 // @include        https://*
@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version        1.1.0
+// @version  20210806214635783956239
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -21,7 +21,7 @@
 
 
     /*
-        NOTE: 
+        NOTE:
             You can use \\* to match actual asterisks instead of using it as a wildcard!
             The examples below show a wildcard in use and a regular asterisk replacement.
     */
@@ -31,11 +31,31 @@
 
 
         // Syntax: 'Search word' : 'Replace word',
-        'imo' : 'in my opinion',
-        'skada' : '(hasarlamak) skada',
-        'förstör' : '(mahvetmek) förstör',
-
-    ///////////////////////////////////////////////////////
+'ursprungligen': '(originally) ursprungligen',
+'särskilda': '(SPECIAL ) särskilda',
+'anställ': '(Employing ) anställ',
+'motståndare': '(opponents) motståndare',
+'stavhopp': '(Spell Hope ) stavhopp',
+'hävstång': '(lever) hävstång',
+'stavhoppare': '(Spell jumpers) stavhoppare',
+'truppen': '(the squad ) truppen',
+'stavhoppare': '(Spell jumpers) stavhoppare',
+'rimligt': '(fair) rimligt',
+'bokningstryck': '(Booking printing ) bokningstryck',
+'häromdagen': '(The other day ) häromdagen',
+'kassaskåp': '(safe) kassaskåp',
+'trängsel': '(throng) trängsel',
+'bältrosvaccinet': '(The shingle vaccine ) bältrosvaccinet',
+'vattkoppor': '(chicken-pox) vattkoppor',
+'kostnadsfritt': '(free) kostnadsfritt',
+'ribban': '(the rib ) ribban',
+'besvikna': '(disappoint ) besvikna',
+'ikapp': '(catch up ) ikapp',
+'förstör': '(destroy) förstör',
+'borrar sig': '(drills itself ) borrar sig',
+'bevisen': '(the evidence ) bevisen',
+'drönare': '(drone) drönare',
+'åtgärder': '(Actions) åtgärder',‘oroande’: ‘(worrying) oroande’,////////////////////////////////////////////////////////
     '':''};
 
 
