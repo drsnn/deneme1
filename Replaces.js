@@ -13,8 +13,8 @@
 // @copyright      JoeSimmons
 // @version        1.1.0
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
-// @downloadURL    https://userscripts-mirror.org/scripts/source/41369.user.js
-// @updateURL      https://userscripts-mirror.org/scripts/source/41369.meta.js
+// @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
+// @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // ==/UserScript==
 (function () {
     'use strict';

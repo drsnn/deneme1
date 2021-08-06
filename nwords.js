@@ -59,5 +59,4 @@ highlightWord('förstör');
 highlightWord('borrar sig'); 
 highlightWord('bevisen'); 
 highlightWord('drönare'); 
-highlightWord('åtgärder'); 
-highlightWord('åtgärder'); 
+highlightWord('åtgärder');
