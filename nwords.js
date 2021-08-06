@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Highlight Text new
-// @version  20210804105321392013329
+// @version  20210806114758424789749
 // @description Highlights text within HTML
 // @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
 // @downloadURL https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
@@ -55,6 +55,9 @@ highlightWord('kostnadsfritt');
 highlightWord('ribban'); 
 highlightWord('besvikna'); 
 highlightWord('ikapp'); 
-highlightWord('
-How to switch Karabiner profile via shortcut? - Ask Different
-https://apple.stackexchange.com › questions › how-to-s...'); 
+highlightWord('förstör'); 
+highlightWord('borrar sig'); 
+highlightWord('bevisen'); 
+highlightWord('drönare'); 
+highlightWord('åtgärder'); 
+highlightWord('åtgärder'); 
