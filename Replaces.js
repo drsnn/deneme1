@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20210806222007804073779
+// @version  20210807133134486946579
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -55,7 +55,7 @@
 'borrar sig': '(drills itself ) borrar sig',
 'bevisen': '(the evidence ) bevisen',
 'drönare': '(drone) drönare',
-'åtgärder': '(Actions) åtgärder','tillstånd': '(permission) tillstånd',////////////////////////////////////////////////////////
+'åtgärder': '(Actions) åtgärder',' övergrepp': '(abuse)  övergrepp',////////////////////////////////////////////////////////
     '':''};
 
 
