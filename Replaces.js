@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20210807133134486946579
+// @version  20210808194844713243099
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -31,31 +31,7 @@
 
 
         // Syntax: 'Search word' : 'Replace word',
-'ursprungligen': '(originally) ursprungligen',
-'särskilda': '(SPECIAL ) särskilda',
-'anställ': '(Employing ) anställ',
-'motståndare': '(opponents) motståndare',
-'stavhopp': '(Spell Hope ) stavhopp',
-'hävstång': '(lever) hävstång',
-'stavhoppare': '(Spell jumpers) stavhoppare',
-'truppen': '(the squad ) truppen',
-'stavhoppare': '(Spell jumpers) stavhoppare',
-'rimligt': '(fair) rimligt',
-'bokningstryck': '(Booking printing ) bokningstryck',
-'häromdagen': '(The other day ) häromdagen',
-'kassaskåp': '(safe) kassaskåp',
-'trängsel': '(throng) trängsel',
-'bältrosvaccinet': '(The shingle vaccine ) bältrosvaccinet',
-'vattkoppor': '(chicken-pox) vattkoppor',
-'kostnadsfritt': '(free) kostnadsfritt',
-'ribban': '(the rib ) ribban',
-'besvikna': '(disappoint ) besvikna',
-'ikapp': '(catch up ) ikapp',
-'förstör': '(destroy) förstör',
-'borrar sig': '(drills itself ) borrar sig',
-'bevisen': '(the evidence ) bevisen',
-'drönare': '(drone) drönare',
-'åtgärder': '(Actions) åtgärder',' övergrepp': '(abuse)  övergrepp',////////////////////////////////////////////////////////
+'ursprungligen': '(originally) ursprungligen','bistånd': '(assistance) bistånd',////////////////////////////////////////////////////////
     '':''};
 
 

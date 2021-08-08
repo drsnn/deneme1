@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Highlight Text Sin
-// @version  20210807133135486951649
+// @version  20210808194844713245159
 // @description Highlights text within HTML
 // @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
 // @downloadURL https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
@@ -36,34 +36,5 @@ function highlightWord(word) {
     }
 }
 highlightWord('ursprungligen');
-highlightWord('särskilda');
-highlightWord('anställ');
-highlightWord('motståndare');
-highlightWord('stavhopp');
-highlightWord('hävstång');
-highlightWord('stavhoppare');
-highlightWord('truppen');
-highlightWord('stavhoppare');
-highlightWord('rimligt');
-highlightWord('bokningstryck'); 
-highlightWord('häromdagen'); 
-highlightWord('kassaskåp'); 
-highlightWord('trängsel');
-highlightWord('bältrosvaccinet'); 
-highlightWord('vattkoppor'); 
-highlightWord('kostnadsfritt');
-highlightWord('ribban'); 
-highlightWord('besvikna'); 
-highlightWord('ikapp'); 
-highlightWord('förstör'); 
-highlightWord('borrar sig'); 
-highlightWord('bevisen'); 
-highlightWord('drönare'); 
-highlightWord('åtgärder');
-highlightWord('oroande'); 
-highlightWord('tillstånd'); 
-highlightWord('Nedstängning'); 
-highlightWord('verk­samheter'); 
-highlightWord('stiftelsen'); 
-highlightWord('övergrepp riktade mot'); 
-highlightWord('övergrepp'); 
+highlightWord('ryttarna'); 
+highlightWord('bistånd'); 
