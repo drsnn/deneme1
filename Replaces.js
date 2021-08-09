@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  2021080900183711173709
+// @version  20210809221119798794589
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -31,7 +31,7 @@
 
 
         // Syntax: 'Search word' : 'Replace word',
-'ursprungligen': '(originally) ursprungligen','övergrepp': '(abuse) övergrepp',////////////////////////////////////////////////////////
+'ursprungligen': '(originally) ursprungligen','erfara': '(experience) erfara',////////////////////////////////////////////////////////
     '':''};
 
 
