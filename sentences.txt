@@ -30,3 +30,7 @@ utmärkelser  ;{{c1::utmärkelser}}:   Nu lämnar de tillbaka sina {{c1::utmärk
 hotbild  ;{{c1::hotbild}}:   Det arbetet gör att de får en {{c1::hotbild}}  mot hela sin familj, säger veteranen Tommy Wahlman.;  threat: That work means that they get a threat against their entire family, says veteran Tommy Wahlman. <a href=https://www.svt.se/nyheter/inrikes/veteranerna-lamnar-tillbaka-sina-medaljer>link</a> ;     ;   8sidor
 
 insatser  ;{{c1::insatser}}: Tommy Wahlman har belönats med två medaljer för sina {{c1::insatser}}  för försvarsmakten.;  contributions: Tommy Wahlman has been awarded two medals for his contributions to the Armed Forces. <a href=https://www.svt.se/nyheter/inrikes/veteranerna-lamnar-tillbaka-sina-medaljer>link</a> ;     ;   8sidor
+
+utsätter  ;{{c1::utsätter}}:   Tolkarna {{c1::utsätter}} ätter sig för extremt stora risker och hjälper inte bara till med att översätta.;  exposes: The interpreters expose themselves to extremely great risks and do not just help with translating. <a href=https://www.svt.se/nyheter/inrikes/veteranerna-lamnar-tillbaka-sina-medaljer>link</a> ;     ;   8sidor
+
+terräng  ;{{c1::terräng}}:   De hjälper också till att knyta upp eventuella knutar ute i {{c1::terräng}} äng.;  terrain: They also help to tie up any knots out in the terrain meadow. <a href=https://www.svt.se/nyheter/inrikes/veteranerna-lamnar-tillbaka-sina-medaljer>link</a> ;     ;   8sidor
