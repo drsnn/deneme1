@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Highlight Text Sin
-// @version  20210810190141685011179
+// @version  20210810192520699200569
 // @description Highlights text within HTML
 // @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
 // @downloadURL https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
@@ -48,3 +48,4 @@ highlightWord('avvisnings');
 highlightWord('utreder'); 
 highlightWord('motståndare'); 
 highlightWord('överraskad'); 
+highlightWord('insatser'); 
