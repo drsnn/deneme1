@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20210810201709730290519
+// @version  20210810202249733690039
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -34,11 +34,9 @@
 'ursprungligen': '(originally) ursprungligen',
 'utmärkelser': '(awards) utmärkelser',
 'utsätter': '(exposes) utsätter',
-''ursprungligen': '(originally) ursprungligen',
-'utmärkelser': '(awards) utmärkelser',
-'utsätter': '(exposes) utsätter',
 'berättar': '(tells) berättar',
-'terräng': '(terrain) terräng',////////////////////////////////////////////////////////
+'terräng': '(terrain) terräng',
+'belysa': '(illustrate) belysa',////////////////////////////////////////////////////////
     '':''};
 
 
