@@ -23,3 +23,9 @@ motståndare  ;{{c1::motståndare}}: De dödades för att de var{{c1::motstånda
 överraskad  ;{{c1::överraskad}}: eratt han inte är {{c1::överraskad}}  tydligare än de andra.;  surprised: eratt he is not surprised more clearly than the others. <a href=surprised: eratt he is not surprised more clearly than the others.>link</a> ;     ;   8sidor
 
 insatser  ;{{c1::insatser}}: De är båda veteraner som har belönats med medaljer för sina {{c1::insatser}}  i försvarsmaktens tjänst.;  contributions: They are both veterans who have been awarded medals for their contributions in the service of the Armed Forces. <a href=https://www.svt.se/nyheter/inrikes/veteranerna-lamnar-tillbaka-sina-medaljer>link</a> ;     ;   8sidor
+
+utmärkelser  ;{{c1::utmärkelser}}:   Nu lämnar de tillbaka sina {{c1::utmärkelser}} ärkelser till regeringen.– De visar n;  awards: Now they return their honors awards to the government.– They show n <a href=https://www.svt.se/nyheter/inrikes/veteranerna-lamnar-tillbaka-sina-medaljer>link</a> ;     ;   8sidor
+
+
+
+hotbild  ;{{c1::hotbild}}:   Det arbetet gör att de får en {{c1::hotbild}}  mot hela sin familj, säger veteranen Tommy Wahlman.;  threat: That work means that they get a threat against their entire family, says veteran Tommy Wahlman. <a href=https://www.svt.se/nyheter/inrikes/veteranerna-lamnar-tillbaka-sina-medaljer>link</a> ;     ;   8sidor

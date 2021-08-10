@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20210810192519699198539
+// @version  20210810194102708621769
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -31,7 +31,8 @@
 
 
         // Syntax: 'Search word' : 'Replace word',
-'ursprungligen': '(originally) ursprungligen','insatser': '(efforts) insatser',////////////////////////////////////////////////////////
+'ursprungligen': '(originally) ursprungligen',
+'utmärkelser': '(awards) utmärkelser','hotbild': '(hot picture) hotbild',////////////////////////////////////////////////////////
     '':''};
 
 
