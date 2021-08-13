@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20210813090708328285779
+// @version  20210813163142595028159
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -43,7 +43,9 @@
 'förebyggande': '(prevention) förebyggande',
 'förutsatt': '(provided) förutsatt',
 'uppmanat': '(urged) uppmanat',
-'erövring': '(conquest) erövring',////////////////////////////////////////////////////////
+'erövring': '(conquest) erövring',
+'sänkas': '(lowered) sänkas',
+'bensinmack': '(gas station) bensinmack',////////////////////////////////////////////////////////
     '':''};
 
 
