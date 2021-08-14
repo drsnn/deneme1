@@ -58,3 +58,11 @@ erövring  ;{{c1::erövring}}: Ghazni sägs vara en strategisk {{c1::erövring}}
 sänkas  ;  Vänsterpartiet vill inte att skatterna ska {{c1::sänkas}} änkas.;  lowered : The Left Party does not want taxes to be reduced and widowed. <a href=https://8sidor.se/sverige/2021/08/dadgostars-forslag-till-lofven/>link</a> ;     ;   8sidor
 
 bensinmack  ; Och ibland en Konsumbutik eller {{c1::bensinmack}}  som blivit stängda för alltid.;  gas station : And sometimes a convenience store or gas station that has been closed forever. <a href=https://8sidor.se/kultur/2021/08/hans-figur-ar-korven-assar/>link</a> ;     ;   8sidor
+
+angänsande  ;  De våldsamma floderna har raserat ett stort lägenhetshus och skadat två {{c1::angänsande}} änsande byggnader allvarligt.;  concerning : The violent rivers have demolished a large apartment building and seriously damaged two adjoining caring buildings. <a href=https://www.svt.se/nyheter/utrikes/minst-fyra-doda-efter-kraftiga-oversvamningar-i-turkiet>link</a> ;     ;   8sidor
+
+hustak  ; Samtidigt har cirka 1 700 personer hunnit evakueras via bland annat {{c1::hustak}}  med hjälp av helikopter.;  housetop : At the same time, approximately 1,700 people have been evacuated via, among other things, rooftops by helicopter. <a href=https://www.svt.se/nyheter/utrikes/minst-fyra-doda-efter-kraftiga-oversvamningar-i-turkiet>link</a> ;     ;   8sidor
+
+avslöjade  ;KOMMENTERA Share on FacebookTweet about this on TwitterShare on LinkedInEmail this to someonePrint this page Tidigare somras {{c1::avslöjade}} öjade Dagens Nyheter att det finns vårdgivare som går med på patienters önskemål om att vårdas av etniskt svenska läkare och tandläkare.;  revealed : COMMENT Share on FacebookTweet about this on TwitterShare on LinkedInEmail this to someonePrint this page Earlier this summer, Dagens Nyheter revealed that there are caregivers who agree with patients' wishes to be cared for by ethnic Swedish doctors and dentists. <a href=https://lakartidningen.se/aktuellt/nyheter/2021/08/do-vill-traffa-regionerna-i-september/>link</a> ;     ;   8sidor
+
+tillsyn  ; Tanken är att samla på sig underlag inför en eventuell {{c1::tillsyn}} .;  supervision : The idea is to gather data for a possible inspection. <a href=https://lakartidningen.se/aktuellt/nyheter/2021/08/do-vill-traffa-regionerna-i-september/>link</a> ;     ;   8sidor
