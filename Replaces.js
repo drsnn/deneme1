@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20210814092155337154959
+// @version  20210814234609855690509
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -49,7 +49,11 @@
 'angänsande': '(concerning) angänsande',
 'hustak': '(housetop) hustak',
 'avslöjade': '(revealed) avslöjade',
-'tillsyn': '(supervision) tillsyn',////////////////////////////////////////////////////////
+'tillsyn': '(supervision) tillsyn',
+'razzia': '(raid) razzia',
+'tveksam': '(hesitant) tveksam',
+'sammanväxningar': '(adhesions) sammanväxningar',
+'grötigt': '(mushy) grötigt',////////////////////////////////////////////////////////
     '':''};
 
 

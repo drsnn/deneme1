@@ -66,3 +66,13 @@ hustak  ; Samtidigt har cirka 1 700 personer hunnit evakueras via bland annat {{
 avslöjade  ;KOMMENTERA Share on FacebookTweet about this on TwitterShare on LinkedInEmail this to someonePrint this page Tidigare somras {{c1::avslöjade}} öjade Dagens Nyheter att det finns vårdgivare som går med på patienters önskemål om att vårdas av etniskt svenska läkare och tandläkare.;  revealed : COMMENT Share on FacebookTweet about this on TwitterShare on LinkedInEmail this to someonePrint this page Earlier this summer, Dagens Nyheter revealed that there are caregivers who agree with patients' wishes to be cared for by ethnic Swedish doctors and dentists. <a href=https://lakartidningen.se/aktuellt/nyheter/2021/08/do-vill-traffa-regionerna-i-september/>link</a> ;     ;   8sidor
 
 tillsyn  ; Tanken är att samla på sig underlag inför en eventuell {{c1::tillsyn}} .;  supervision : The idea is to gather data for a possible inspection. <a href=https://lakartidningen.se/aktuellt/nyheter/2021/08/do-vill-traffa-regionerna-i-september/>link</a> ;     ;   8sidor
+
+razzia  ;ot tidning i Nicaragua Polisen i Nicaragua har under fredagen gjort {{c1::razzia}}  mot den huvudsakliga oppositionstidningen La Prensa, skriver The Guardian.;  raid : Nicaragua newspaper The police in Nicaragua raided the main opposition newspaper La Prensa on Friday, writes The Guardian. <a href=https://live.aftonbladet.se/supernytt/news/polisen-har-gjort-razzia-mot-oppositionstidning-i-nicaragua.8HDBpjFXo>link</a> ;     ;   8sidor
+
+övervägas  ;
+
+tveksam  ; NSAID kan prövas under 2 veckor, men effekten är {{c1::tveksam}} .;  hesitant : NSAIDs can be tried for 2 weeks, but the effect is doubtful. <a href=https://www.praktiskmedicin.se/sjukdomar/karpaltunnelsyndrom-%e2%80%a8medianusnervinklamning/>link</a> ;     ;   8sidor
+
+sammanväxningar  ;  Ger ovärderlig information om läge av tumörer, {{c1::sammanväxningar}} äxningar, vätskeansamlingar m m och även om förhållandena i den underliggande lungan.;  adhesions : Provides invaluable information about the location of tumors, adhesions, growths, fluid accumulations, etc. and also about the conditions in the underlying lung. <a href=https://www.internetmedicin.se/behandlingsoversikter/lungmedicin/pleurit-utredning-av-pleuravatska/>link</a> ;     ;   8sidor
+
+grötigt  ; Svårt att svälja, allmänpåverkad, feber och svårigheter att öppna munnen, {{c1::grötigt}} ötigt tal.;  mushy : Difficulty swallowing, general effects, fever and difficulty opening the mouth, mushy, chewy speech. <a href=https://www.praktiskmedicin.se/sjukdomar/peritonsillit-halsbold/>link</a> ;     ;   8sidor
