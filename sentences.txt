@@ -76,3 +76,23 @@ tveksam  ; NSAID kan prövas under 2 veckor, men effekten är {{c1::tveksam}} .;
 sammanväxningar  ;  Ger ovärderlig information om läge av tumörer, {{c1::sammanväxningar}} äxningar, vätskeansamlingar m m och även om förhållandena i den underliggande lungan.;  adhesions : Provides invaluable information about the location of tumors, adhesions, growths, fluid accumulations, etc. and also about the conditions in the underlying lung. <a href=https://www.internetmedicin.se/behandlingsoversikter/lungmedicin/pleurit-utredning-av-pleuravatska/>link</a> ;     ;   8sidor
 
 grötigt  ; Svårt att svälja, allmänpåverkad, feber och svårigheter att öppna munnen, {{c1::grötigt}} ötigt tal.;  mushy : Difficulty swallowing, general effects, fever and difficulty opening the mouth, mushy, chewy speech. <a href=https://www.praktiskmedicin.se/sjukdomar/peritonsillit-halsbold/>link</a> ;     ;   8sidor
+
+utkanter  ;
+
+framfart  ;
+
+avancera  ;
+
+byråkrati  ;  – De afghanska säkerhetsstyrkorna lider liksom staten i stort av korruption, ineffektivitet och svår {{c1::byråkrati}} åkrati, säger Afghanistankännaren Anders Fänge.;  bureaucracy : - The Afghan security forces, like the state, suffer greatly from corruption, inefficiency and severe bureaucracy, says Afghanistan expert Anders Fänge. <a href=https://www.svt.se/nyheter/utrikes/fem-anledningar-till-att-talibanerna-kunnat-avancera-sa-snabbt>link</a> ;     ;   8sidor
+
+deserterat  ; Soldater har {{c1::deserterat}}  och flytt när talibanerna närmat sig.;  deserted : Soldiers have deserted and fled as the Taliban approached. <a href=https://www.svt.se/nyheter/utrikes/fem-anledningar-till-att-talibanerna-kunnat-avancera-sa-snabbt>link</a> ;     ;   8sidor
+
+nekar  ; Pakistan {{c1::nekar}} , men landets stöd har varit viktigt för talibanernas offensiv, enligt Anders Fänge.;  denying : Pakistan denies, but the country's support has been important for the Taliban's offensive, according to Anders Fänge. <a href=https://www.svt.se/nyheter/utrikes/fem-anledningar-till-att-talibanerna-kunnat-avancera-sa-snabbt>link</a> ;     ;   8sidor
+
+utrustning  ; Sannolikt har de även hjälpt talibanerna med militär {{c1::utrustning}}  uzbeker de största folkgrupperna, medan talibanerna främst består av landets största etniska grupp pashtuner.;  equipment : They have probably also helped the Taliban with military equipment uzbeker the largest ethnic groups, while the Taliban mainly consists of the country's largest ethnic group Pashtuns. <a href=https://www.svt.se/nyheter/utrikes/fem-anledningar-till-att-talibanerna-kunnat-avancera-sa-snabbt>link</a> ;     ;   8sidor
+
+anbringat  ;g  Behandling med lokalt {{c1::anbringat}}  negativt tryck (tidigare = VAC) kan vara framgångsrik vid vissa typer av trycksår.;  affixed : g Treatment with locally applied negative pressure (formerly u003d VAC) can be successful for certain types of pressure ulcers. <a href=https://www.internetmedicin.se/behandlingsoversikter/geriatrik/trycksar-prevention-och-behandling/>link</a> ;     ;   8sidor
+
+egendom  ;  "Nu är det talibanernas vapenmakt som har vunnit och de bär ansvar för folkets liv och {{c1::egendom}} , men de har inte vunnit folkets själ och hjärta", skriver Ghani.;  property : "Now it is the Taliban's armed force that has won and they are responsible for the lives and property of the people, but they have not won the soul and heart of the people," Ghani wrote. <a href=https://www.svt.se/nyheter/utrikes/uppgifter-talibanerna-gar-in-i-kabul-fran-alla-sidor>link</a> ;     ;   8sidor
+
+åligger  ;

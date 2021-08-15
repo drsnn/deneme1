@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20210814234609855690509
+// @version  2021081601192847680669
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -53,7 +53,13 @@
 'razzia': '(raid) razzia',
 'tveksam': '(hesitant) tveksam',
 'sammanväxningar': '(adhesions) sammanväxningar',
-'grötigt': '(mushy) grötigt',////////////////////////////////////////////////////////
+'grötigt': '(mushy) grötigt',
+'byråkrati': '(bureaucracy) byråkrati',
+'deserterat': '(deserted) deserterat',
+'nekar': '(denying) nekar',
+'utrustning': '(equipment) utrustning',
+'anbringat': '(affixed) anbringat',
+'egendom': '(property) egendom',////////////////////////////////////////////////////////
     '':''};
 
 
