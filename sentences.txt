@@ -96,3 +96,21 @@ anbringat  ;g  Behandling med lokalt {{c1::anbringat}}  negativt tryck (tidigare
 egendom  ;  "Nu är det talibanernas vapenmakt som har vunnit och de bär ansvar för folkets liv och {{c1::egendom}} , men de har inte vunnit folkets själ och hjärta", skriver Ghani.;  property : "Now it is the Taliban's armed force that has won and they are responsible for the lives and property of the people, but they have not won the soul and heart of the people," Ghani wrote. <a href=https://www.svt.se/nyheter/utrikes/uppgifter-talibanerna-gar-in-i-kabul-fran-alla-sidor>link</a> ;     ;   8sidor
 
 åligger  ;
+
+ogenomskinlig  ; Säker AOM: purulent sekretion och/eller perforerad/chagrinerad trumhinna eller buktande, {{c1::ogenomskinlig}} , färgförändrad, förtjockad och orörlig trumhinna vid siegling.;  opaque : Safe AOM: purulent secretion and / or perforated / chagrinated eardrum or bulging, opaque, discolored, thickened and immobile eardrum during sieving. <a href=https://www.internetmedicin.se/behandlingsoversikter/onh/otit-oroninflammation-akut/>link</a> ;     ;   8sidor
+
+utbyte  ; Förskrivarens roll vid generiskt {{c1::utbyte}} Förskrivare har en nyckelroll för att skapa ett patientsäkert {{c1::utbyte}}  och ändamålsenlig läkemedelsanvändning, se Faktaruta 2.;  exchange : The role of the prescriber in generic exchange Prescribers have a key role in creating a patient-safe exchange and appropriate use of medicines, see Box 2. <a href=https://lakemedelsboken.se/kapitel/regelverket_och_it-stod/utbyte-av-lakemedel.html#Utbyte-av-lakemedel>link</a> ;     ;   8sidor
+
+ramarna  ;  Sharialagar ska gälla i landet och kvinnor ska få arbeta och utbilda sig ”inom {{c1::ramarna}}  för sharia”, enligt talibanerna.;  frames : Sharia law should apply in the country and women should be allowed to work and educate themselves "within the framework of sharia", according to the Taliban. <a href=https://www.svt.se/nyheter/utrikes/uppgifter-talibanerna-gar-in-i-kabul-fran-alla-sidor>link</a> ;     ;   8sidor
+
+bistånd  ; Tyskland stoppar {{c1::bistånd}} till Afghanistan  Tyskland har fryst allt {{c1::bistånd}} ånd till Afghanistan.;  assistance : Germany stops aid to Afghanistan Germany has frozen all aid spirit to Afghanistan. <a href=https://www.svt.se/nyheter/utrikes/uppgifter-talibanerna-gar-in-i-kabul-fran-alla-sidor>link</a> ;     ;   8sidor
+
+angreps  ; Hon var då 15 år och {{c1::angreps}}  för att hon talade om flickors rätt till utbildning.;  attack : She was then 15 years old and was attacked for talking about girls' right to education. <a href=https://www.svt.se/nyheter/utrikes/malala-jag-ar-djupt-oroad>link</a> ;     ;   8sidor
+
+slåss  ;  – Regeringens soldater ville inte {{c1::slåss}} åss mot talibanerna.;  fight : - The government soldiers did not want to fight back against the Taliban. <a href=https://8sidor.se/varlden/2021/08/talibanerna-lovar-fred/>link</a> ;     ;   8sidor
+
+verksamhet  ;
+
+mediejättar  ;
+
+polisinsats  ;reder grovt brott UPPDATERAD IDAG 01:07PUBLICERAD IDAG 23:08 En stor {{c1::polisinsats}}  pågår på flera platser i Stockholmsområdet under tisdagskvällen.;  police operation : commits a serious crime UPDATED TODAY 01:07 PUBLISHED TODAY 23:08 A major police operation is underway in several places in the Stockholm area on Tuesday evening. <a href=https://www.svt.se/nyheter/lokalt/stockholm/stor-polisinsats-i-stockholm-utreder-grovt-brott>link</a> ;     ;   8sidor

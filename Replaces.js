@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  2021081601192847680669
+// @version  2021081801444162816539
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -59,7 +59,14 @@
 'nekar': '(denying) nekar',
 'utrustning': '(equipment) utrustning',
 'anbringat': '(affixed) anbringat',
-'egendom': '(property) egendom',////////////////////////////////////////////////////////
+'egendom': '(property) egendom',
+'ogenomskinlig': '(opaque) ogenomskinlig',
+'utbyte': '(exchange) utbyte',
+'ramarna': '(frames) ramarna',
+'bistånd': '(assistance) bistånd',
+'angreps': '(attack) angreps',
+'slåss': '(fight) slåss',
+'polisinsats': '(police operation) polisinsats',////////////////////////////////////////////////////////
     '':''};
 
 
