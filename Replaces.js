@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  2021081801444162816539
+// @version  20210819143401524419959
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -66,7 +66,9 @@
 'bistånd': '(assistance) bistånd',
 'angreps': '(attack) angreps',
 'slåss': '(fight) slåss',
-'polisinsats': '(police operation) polisinsats',////////////////////////////////////////////////////////
+'polisinsats': '(police operation) polisinsats',
+'överstiger': '(exceeds) överstiger',
+'bär på': '(carries on) bär på',////////////////////////////////////////////////////////
     '':''};
 
 

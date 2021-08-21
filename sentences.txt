@@ -114,3 +114,7 @@ verksamhet  ;
 mediejättar  ;
 
 polisinsats  ;reder grovt brott UPPDATERAD IDAG 01:07PUBLICERAD IDAG 23:08 En stor {{c1::polisinsats}}  pågår på flera platser i Stockholmsområdet under tisdagskvällen.;  police operation : commits a serious crime UPDATED TODAY 01:07 PUBLISHED TODAY 23:08 A major police operation is underway in several places in the Stockholm area on Tuesday evening. <a href=https://www.svt.se/nyheter/lokalt/stockholm/stor-polisinsats-i-stockholm-utreder-grovt-brott>link</a> ;     ;   8sidor
+
+överstiger  ; De utgör numera de vanligast förekommande multiresistenta bakterierna i Norden och ökningstakten {{c1::överstiger}} {{c1::överstiger}} vida den för MRSA och VRE.;  exceeds : They now constitute the most common multi-resistant bacteria in the Nordic countries and the rate of increase far exceeds that of MRSA and VRE. <a href=https://www.internetmedicin.se/behandlingsoversikter/infektion/esbl-bildande-multiresistenta-tarmbakterier/>link</a> ;     ;   8sidor
+
+bär på  ;t sig om framgångsrika bakteriekloner som i dessa fall {{c1::bär på}} karbapenemaser vanligtvis av typen KPC (9).;  carries on : These are successful bacterial clones which in these cases carry carbapenemases, usually of the KPC type (9). <a href=https://www.internetmedicin.se/behandlingsoversikter/infektion/esbl-bildande-multiresistenta-tarmbakterier/>link</a> ;     ;   8sidor
