@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20210819143401524419959
+// @version  20210823203837743171579
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -68,7 +68,8 @@
 'slåss': '(fight) slåss',
 'polisinsats': '(police operation) polisinsats',
 'överstiger': '(exceeds) överstiger',
-'bär på': '(carries on) bär på',////////////////////////////////////////////////////////
+'bär på': '(carries on) bär på',
+'påtaglig': '(noticeable) påtaglig',////////////////////////////////////////////////////////
     '':''};
 
 
