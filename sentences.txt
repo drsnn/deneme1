@@ -77,11 +77,7 @@ sammanväxningar  ;  Ger ovärderlig information om läge av tumörer, {{c1::sam
 
 grötigt  ; Svårt att svälja, allmänpåverkad, feber och svårigheter att öppna munnen, {{c1::grötigt}} ötigt tal.;  mushy : Difficulty swallowing, general effects, fever and difficulty opening the mouth, mushy, chewy speech. <a href=https://www.praktiskmedicin.se/sjukdomar/peritonsillit-halsbold/>link</a> ;     ;   8sidor
 
-utkanter  ;
 
-framfart  ;
-
-avancera  ;
 
 byråkrati  ;  – De afghanska säkerhetsstyrkorna lider liksom staten i stort av korruption, ineffektivitet och svår {{c1::byråkrati}} åkrati, säger Afghanistankännaren Anders Fänge.;  bureaucracy : - The Afghan security forces, like the state, suffer greatly from corruption, inefficiency and severe bureaucracy, says Afghanistan expert Anders Fänge. <a href=https://www.svt.se/nyheter/utrikes/fem-anledningar-till-att-talibanerna-kunnat-avancera-sa-snabbt>link</a> ;     ;   8sidor
 
@@ -95,7 +91,7 @@ anbringat  ;g  Behandling med lokalt {{c1::anbringat}}  negativt tryck (tidigare
 
 egendom  ;  "Nu är det talibanernas vapenmakt som har vunnit och de bär ansvar för folkets liv och {{c1::egendom}} , men de har inte vunnit folkets själ och hjärta", skriver Ghani.;  property : "Now it is the Taliban's armed force that has won and they are responsible for the lives and property of the people, but they have not won the soul and heart of the people," Ghani wrote. <a href=https://www.svt.se/nyheter/utrikes/uppgifter-talibanerna-gar-in-i-kabul-fran-alla-sidor>link</a> ;     ;   8sidor
 
-åligger  ;
+
 
 ogenomskinlig  ; Säker AOM: purulent sekretion och/eller perforerad/chagrinerad trumhinna eller buktande, {{c1::ogenomskinlig}} , färgförändrad, förtjockad och orörlig trumhinna vid siegling.;  opaque : Safe AOM: purulent secretion and / or perforated / chagrinated eardrum or bulging, opaque, discolored, thickened and immobile eardrum during sieving. <a href=https://www.internetmedicin.se/behandlingsoversikter/onh/otit-oroninflammation-akut/>link</a> ;     ;   8sidor
 
@@ -109,9 +105,7 @@ angreps  ; Hon var då 15 år och {{c1::angreps}}  för att hon talade om flicko
 
 slåss  ;  – Regeringens soldater ville inte {{c1::slåss}} åss mot talibanerna.;  fight : - The government soldiers did not want to fight back against the Taliban. <a href=https://8sidor.se/varlden/2021/08/talibanerna-lovar-fred/>link</a> ;     ;   8sidor
 
-verksamhet  ;
 
-mediejättar  ;
 
 polisinsats  ;reder grovt brott UPPDATERAD IDAG 01:07PUBLICERAD IDAG 23:08 En stor {{c1::polisinsats}}  pågår på flera platser i Stockholmsområdet under tisdagskvällen.;  police operation : commits a serious crime UPDATED TODAY 01:07 PUBLISHED TODAY 23:08 A major police operation is underway in several places in the Stockholm area on Tuesday evening. <a href=https://www.svt.se/nyheter/lokalt/stockholm/stor-polisinsats-i-stockholm-utreder-grovt-brott>link</a> ;     ;   8sidor
 
@@ -121,6 +115,3 @@ bär på  ;t sig om framgångsrika bakteriekloner som i dessa fall {{c1::bär p�
 
 påtaglig  ;mpression kan medföra långvarig smärta, och om personen drabbats av flera kotkompressioner kan detta leda till en {{c1::påtaglig}} åtaglig kutryggighet (kyfos).;  noticeable : mpression can cause prolonged pain, and if the person suffers from multiple vertebral compressions, this can lead to a marked palpable insecurity (kyphosis). <a href=https://www.wikiwand.com/sv/Kotkompression>link</a> ;     ;   8sidor
 
-inför  ;
-
-klusterutbrott  ;
