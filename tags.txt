@@ -6,3 +6,15 @@
 #vaccination
 #protein_synthesis
 #mRNA
+#spermatogenesis
+#gram_pozitif_bakteria
+#gram_negative_bakteria
+#KOAH
+#COPD
+#GOLD_classification
+#calcium
+#phospate
+#osteoporosis
+#biphosphonate
+#Rheumatoid_artirit
+#anti_CCP
