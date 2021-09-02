@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20210828194949713897639
+// @version  20210831111256403760399
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -70,7 +70,8 @@
 'överstiger': '(exceeds) överstiger',
 'bär på': '(carries on) bär på',
 'påtaglig': '(noticeable) påtaglig',
-'förtvivlade': '(desperate) förtvivlade',////////////////////////////////////////////////////////
+'förtvivlade': '(desperate) förtvivlade',
+'bryta': '(break) bryta',////////////////////////////////////////////////////////
     '':''};
 
 
