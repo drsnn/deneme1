@@ -125,3 +125,10 @@ Epithelial cell junctions #epithelial_cell_junctions
 Transient global amnesia #transient_global_amnesia
 #dna
 #rna
+#whiplash_disorder
+#hypothyroidism
+#hyperthyroidism
+#https://www.google.com/url?sa=i
+underarm #underarm
+#multiple_endocrine_neoplasias
+#aminoacids
