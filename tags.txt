@@ -132,3 +132,16 @@ Transient global amnesia #transient_global_amnesia
 underarm #underarm
 #multiple_endocrine_neoplasias
 #aminoacids
+#catecholamine
+#glasgow_coma_scale
+Reaction level scale #reaction_level_scale
+Acute trauma #acute_trauma
+pO2 #po2
+morfine #morfine
+oxycodine #oxycodine
+#mortality_rate
+Status epilepticus #status_epilepticus
+#alcohol_use_disorder
+oligomenoria #oligomenoria
+Renal cell cancer #renal_cell_cancer
+#fontanella
