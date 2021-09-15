@@ -121,4 +121,11 @@ förtvivlade  ;som kommer är är lättade över att komma, men {{c1::förtvivla
 
 bryta  ;ka göra så att Cementa får fortsätta {{c1::bryta}}  kalk ett tag till.;  break : ka allow Cementa to continue mining lime for a while longer. <a href=https://8sidor.se/sverige/2021/08/ny-lag-kan-radda-cementa/>link</a> ;     ;   8sidor
 
-trådlös  ;
+
+häktade  ;agaren bestämma om de misstänkta ska bli {{c1::häktade}} äktade.;  arrested : the agar decide whether the suspects should be remanded in custody. <a href=https://8sidor.se/sverige/2021/09/man-blev-skjuten-i-vaxjo/>link</a> ;     ;   8sidor
+
+
+
+
+
+slutomröstning  ; Genom att lägga en budgetproposition med skräddarsydda förslag för Centerpartiet och Vänsterpartiet är målet att förmå båda dessa partier att i en {{c1::slutomröstning}} östning rösta ja till regeringens budget.;  final vote : By submitting a budget bill with tailor-made proposals for the Center Party and the Left Party, the goal is to persuade both of these parties to vote yes to the government's budget in a final vote. <a href=https://www.svt.se/nyheter/inrikes/en-ny-regeringskris-kan-sta-for-dorren-redan-innan-jul>link</a> ;     ;   8sidor
