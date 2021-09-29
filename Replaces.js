@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20210914220812796928519
+// @version  20210928214249781692719
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -73,7 +73,8 @@
 'förtvivlade': '(desperate) förtvivlade',
 'bryta': '(break) bryta',
 'häktade': '(arrested) häktade',
-'slutomröstning': '(final vote) slutomröstning',////////////////////////////////////////////////////////
+'slutomröstning': '(final vote) slutomröstning',
+'fruktansvärd': '(terrible) fruktansvärd',////////////////////////////////////////////////////////
     '':''};
 
 

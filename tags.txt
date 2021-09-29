@@ -145,3 +145,8 @@ Status epilepticus #status_epilepticus
 oligomenoria #oligomenoria
 Renal cell cancer #renal_cell_cancer
 #fontanella
+#alphabet
+frekvens #frekvens
+#intressen
+släkt #släkt
+färg #färg
