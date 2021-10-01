@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20210928214249781692719
+// @version  20211001092342338228759
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -74,7 +74,8 @@
 'bryta': '(break) bryta',
 'häktade': '(arrested) häktade',
 'slutomröstning': '(final vote) slutomröstning',
-'fruktansvärd': '(terrible) fruktansvärd',////////////////////////////////////////////////////////
+'fruktansvärd': '(terrible) fruktansvärd',
+'lögner': '(lies) lögner',////////////////////////////////////////////////////////
     '':''};
 
 
