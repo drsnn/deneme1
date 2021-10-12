@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211001092342338228759
+// @version  20211011225443824831209
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -75,7 +75,9 @@
 'häktade': '(arrested) häktade',
 'slutomröstning': '(final vote) slutomröstning',
 'fruktansvärd': '(terrible) fruktansvärd',
-'lögner': '(lies) lögner',////////////////////////////////////////////////////////
+'lögner': '(lies) lögner',
+'tyg': '(week) tyg',
+'bränsle': '(fuel) bränsle',////////////////////////////////////////////////////////
     '':''};
 
 
