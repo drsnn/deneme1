@@ -137,3 +137,9 @@ lögner  ; Filmerna har haft {{c1::lögner}} ögner om vaccinet mot viruset coro
 tyg  ;en blev inslagen Lyssna Triumfbågen i Paris har nyligen varit inslagen i {{c1::tyg}} .;  week : one was wrapped Listen to the Arc de Triomphe in Paris has recently been wrapped in cloth. <a href=https://8sidor.se/kultur/2021/10/triumfbagen-blev-inslagen/>link</a> ;     ;   8sidor
 
 bränsle  ; Diesel blandas med mer miljövänligt {{c1::bränsle}} änsle än bensin.;  fuel : Diesel is mixed with more environmentally friendly fuel than petrol. <a href=https://8sidor.se/sverige/2021/10/bensinen-ar-en-viktig-fraga/>link</a> ;     ;   8sidor
+
+ anspråkslöshet  ;
+
+pilbåge  ; Han hade en {{c1::pilbåge}} åge och många pilar.;  bow : He had a bow and many arrows. <a href=https://8sidor.se/varlden/2021/10/fem-dodade-i-norge/>link</a> ;     ;   8sidor
+
+dödsläger  ;  Under Andra världskriget mördade nazisterna i Tyskland över sex miljoner judar och andra, i särskilda {{c1::dödsläger}} ödsläger.;  death camp : During World War II, the Nazis murdered over six million Jews in Germany and others, in special death camps, extermination camps. <a href=https://sverigesradio.se/artikel/stort-mote-i-malmo-for-att-stoppa-hatet-mot-judar>link</a> ;     ;   8sidor
