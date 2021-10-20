@@ -143,3 +143,5 @@ bränsle  ; Diesel blandas med mer miljövänligt {{c1::bränsle}} änsle än be
 pilbåge  ; Han hade en {{c1::pilbåge}} åge och många pilar.;  bow : He had a bow and many arrows. <a href=https://8sidor.se/varlden/2021/10/fem-dodade-i-norge/>link</a> ;     ;   8sidor
 
 dödsläger  ;  Under Andra världskriget mördade nazisterna i Tyskland över sex miljoner judar och andra, i särskilda {{c1::dödsläger}} ödsläger.;  death camp : During World War II, the Nazis murdered over six million Jews in Germany and others, in special death camps, extermination camps. <a href=https://sverigesradio.se/artikel/stort-mote-i-malmo-for-att-stoppa-hatet-mot-judar>link</a> ;     ;   8sidor
+
+likställas   ;kt PUBLICERAD IDAG 22:01 Miljöpartiet vill se över sexualbrottslagen och utreda om sexköp ska {{c1::likställas }} ällas med våldtäkt.;  equated : kt PUBLISHED TODAY 22:01 The Green Party wants to review the Sexual Offenses Act and investigate whether sex purchases should be equated with old age with rape. <a href=https://www.svt.se/nyheter/mp-sexkop-kan-motsvara-valdtakt>link</a> ;     ;   8sidor

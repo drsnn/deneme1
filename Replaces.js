@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211014112615411759659
+// @version  2021102000445626969639
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -79,7 +79,8 @@
 'tyg': '(week) tyg',
 'bränsle': '(fuel) bränsle',
 'pilbåge': '(bow) pilbåge',
-'dödsläger': '(death camp) dödsläger',////////////////////////////////////////////////////////
+'dödsläger': '(death camp) dödsläger',
+'likställas ': '(equated) likställas ',////////////////////////////////////////////////////////
     '':''};
 
 
