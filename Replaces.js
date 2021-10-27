@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  2021102000445626969639
+// @version  20211027102931377712149
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -80,7 +80,8 @@
 'bränsle': '(fuel) bränsle',
 'pilbåge': '(bow) pilbåge',
 'dödsläger': '(death camp) dödsläger',
-'likställas ': '(equated) likställas ',////////////////////////////////////////////////////////
+'likställas ': '(equated) likställas ',
+'består av': '(consisting of) består av',////////////////////////////////////////////////////////
     '':''};
 
 
