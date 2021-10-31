@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211027110847401271859
+// @version  20211030104334386146239
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -83,7 +83,11 @@
 'likställas ': '(equated) likställas ',
 'består av': '(consisting of) består av',
 'rättegång': '(trial) rättegång',
-'innefattar': '(includes) innefattar',////////////////////////////////////////////////////////
+'innefattar': '(includes) innefattar',
+'hagelgevär': '(shotgun) hagelgevär',
+'växts': '(grown) växts',
+'stugbyar': '(holiday villages) stugbyar',
+'spöken': '(ghosts) spöken',////////////////////////////////////////////////////////
     '':''};
 
 
