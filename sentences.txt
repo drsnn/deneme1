@@ -167,3 +167,5 @@ spöken  ; Det är platser där människor har sagt att det finns {{c1::spöken}
 skörd  ;
 
 skörd  ;
+
+misstänkt grovt brott  ; Polisen utreder på söndagsmorgonen ett {{c1::misstänkt grovt brott}}  och ambulans larmades vid 06-tiden på söndagsmorgonen med anledning av att ett grovt brott ska ha skett i en bostad inom Haninge kommun.;  suspected felony : The police are investigating a suspected serious crime on Sunday morning and an ambulance was alerted at 06:00 on Sunday morning due to a serious crime having taken place in a home within Haninge municipality. <a href=https://www.svt.se/nyheter/lokalt/stockholm/misstankt-grovt-brott-man-gripen>link</a> ;     ;   8sidor

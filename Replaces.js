@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211030104334386146239
+// @version  20211031111218403386349
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -87,7 +87,8 @@
 'hagelgevär': '(shotgun) hagelgevär',
 'växts': '(grown) växts',
 'stugbyar': '(holiday villages) stugbyar',
-'spöken': '(ghosts) spöken',////////////////////////////////////////////////////////
+'spöken': '(ghosts) spöken',
+'misstänkt grovt brott': '(suspected felony) misstänkt grovt brott',////////////////////////////////////////////////////////
     '':''};
 
 
