@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211101114314421941949
+// @version  20211102122253445738709
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -92,7 +92,15 @@
 'oväder': '(storm) oväder',
 'omständigheterna': '(circumstances) omständigheterna',
 'skottlossningen': '(the shooting) skottlossningen',
-'förlupen': '(expired) förlupen',////////////////////////////////////////////////////////
+'förlupen': '(expired) förlupen',
+'interna konflikterna': '(internal conflicts) interna konflikterna',
+'bekymrat': '(worried) bekymrat',
+'tidsangivelse': '(time indication) tidsangivelse',
+'driftstörningar': '(malfunctions) driftstörningar',
+'ohållbara ': '(unsustainable) ohållbara ',
+'limmade': '(glued) limmade',
+'Vanligtvis': '(Usually) Vanligtvis',
+'kretsar': '(circuits) kretsar',////////////////////////////////////////////////////////
     '':''};
 
 

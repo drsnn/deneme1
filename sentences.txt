@@ -177,3 +177,21 @@ omständigheterna  ; ”Romero (tränaren) mår under {{c1::omständigheterna}} 
 skottlossningen  ; Videobilder visar hur både spelare och ledare från båda lagen flyr arenan och söker skydd när {{c1::skottlossningen}}  utbryter.;  the shooting : Video images show how both players and leaders from both teams flee the arena and seek protection when the shooting breaks out. <a href=https://www.svt.se/sport/fotboll/argentinsk-tranare-skjuten-under-match>link</a> ;     ;   8sidor
 
 förlupen  ; Det är oklart om tränaren var målet för skjutningen eller om han råkat komma i vägen för en {{c1::förlupen}} örlupen kula.;  expired : It is unclear if the coach was the target of the shooting or if he happened to get in the way of an expired ear ball. <a href=https://www.svt.se/sport/fotboll/argentinsk-tranare-skjuten-under-match>link</a> ;     ;   8sidor
+
+interna konflikterna  ;  De {{c1::interna konflikterna}}  bland fansen har bekymrat Huracan i flera år.;  internal conflicts : The internal conflicts among the fans have worried Huracan for several years. <a href=https://www.svt.se/sport/fotboll/argentinsk-tranare-skjuten-under-match>link</a> ;     ;   8sidor
+
+bekymrat  ;  De interna konflikterna bland fansen har {{c1::bekymrat}}  Huracan i flera år.;  worried : The internal conflicts among the fans have worried Huracan for several years. <a href=https://www.svt.se/sport/fotboll/argentinsk-tranare-skjuten-under-match>link</a> ;     ;   8sidor
+
+tidsangivelse  ; – Vi har ingen {{c1::tidsangivelse}}  i Swedbankappen på grund av en störning.;  time indication : - We have no time indication in the Swedbank app due to a disruption. <a href=https://www.svt.se/nyheter/inrikes/swedbank-ligger-nere>link</a> ;     ;   8sidor
+
+driftstörningar  ;  Sparbankerna har också {{c1::driftstörningar}} örningar och deras hemsida ligger nere.;  malfunctions : The savings banks also have malfunctions and their website is down. <a href=https://www.svt.se/nyheter/inrikes/swedbank-ligger-nere>link</a> ;     ;   8sidor
+
+ i samband med  ;
+
+ohållbara   ; Den senaste tiden har flera poliser larmat om {{c1::ohållbara }} ållbara arbetssituationer.;  unsustainable : Recently, several police officers have sounded the alarm about unsustainable and aggravating work situations. <a href=https://www.svt.se/nyheter/inrikes/en-tredjedel-av-polisforbundets-medlemmar-har-letat-nytt-jobb>link</a> ;     ;   8sidor
+
+limmade  ; På flygplatsen i Växjö {{c1::limmade}}  två klimataktivister fast sina händer på landningsbanan.;  glued : At the airport in Växjö, two climate activists glued their hands to the runway. <a href=https://sydsvenskan.minibladet.se/2021/11/02/aktivister-stoppade-flyg-med-klister/>link</a> ;     ;   8sidor
+
+Vanligtvis  ; 2 {{c1::Vanligtvis}}  springer jag på eftermiddagen.;  Usually : 2 Usually I run in the afternoon. <a href=https://www.duolingo.com/skill/sv/Adverbs-1/5>link</a> ;     ;   8sidor
+
+kretsar  ; Planeterna {{c1::kretsar}}  kring vår sol.;  circuits : The planets orbit our sun. <a href=https://sydsvenskan.minibladet.se/2021/11/01/unik-planet-kan-ha-hittats/>link</a> ;     ;   8sidor
