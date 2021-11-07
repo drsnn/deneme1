@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211102122253445738709
+// @version  20211106232715844350769
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -100,7 +100,10 @@
 'ohållbara ': '(unsustainable) ohållbara ',
 'limmade': '(glued) limmade',
 'Vanligtvis': '(Usually) Vanligtvis',
-'kretsar': '(circuits) kretsar',////////////////////////////////////////////////////////
+'kretsar': '(circuits) kretsar',
+'uppskattar': '(appreciate) uppskattar',
+'rovdjur': '(predator) rovdjur',
+'vargstam': '() vargstam',////////////////////////////////////////////////////////
     '':''};
 
 

@@ -195,3 +195,11 @@ limmade  ; På flygplatsen i Växjö {{c1::limmade}}  två klimataktivister fast
 Vanligtvis  ; 2 {{c1::Vanligtvis}}  springer jag på eftermiddagen.;  Usually : 2 Usually I run in the afternoon. <a href=https://www.duolingo.com/skill/sv/Adverbs-1/5>link</a> ;     ;   8sidor
 
 kretsar  ; Planeterna {{c1::kretsar}}  kring vår sol.;  circuits : The planets orbit our sun. <a href=https://sydsvenskan.minibladet.se/2021/11/01/unik-planet-kan-ha-hittats/>link</a> ;     ;   8sidor
+
+uppskattar  ; Naturresursinstitutet i Finland (Luke) {{c1::uppskattar}}  att det finns mellan 279 och 321 vargar i Finland.;  appreciate : The Natural Resources Institute in Finland (Luke) estimates that there are between 279 and 321 wolves in Finland. <a href=https://lattabladet.fi/finland/antalet-vargar-okar-i-finland/>link</a> ;     ;   8sidor
+
+rovdjur  ;  Vargen är ett av Finlands stora {{c1::rovdjur}} .;  predator : The wolf is one of Finland's great predators. <a href=https://lattabladet.fi/finland/antalet-vargar-okar-i-finland/>link</a> ;     ;   8sidor
+
+ lodjuret  ;
+
+vargstam  ;  Finlands {{c1::vargstam}}  har ökat extra mycket i västra Finland och i sydvästra Finland.;   :  <a href=https://lattabladet.fi/finland/antalet-vargar-okar-i-finland/>link</a> ;     ;   8sidor
