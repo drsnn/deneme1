@@ -203,3 +203,29 @@ rovdjur  ;  Vargen är ett av Finlands stora {{c1::rovdjur}} .;  predator : The 
  lodjuret  ;
 
 vargstam  ;  Finlands {{c1::vargstam}}  har ökat extra mycket i västra Finland och i sydvästra Finland.;   :  <a href=https://lattabladet.fi/finland/antalet-vargar-okar-i-finland/>link</a> ;     ;   8sidor
+
+framhåller  ; Men ledningen tillbakavisar kritiken och {{c1::framhåller}} åller att alla är välkomna att söka de tjänster som erbjuds.;  emphasizes : But the management rejects the criticism and emphasizes that everyone is welcome to apply for the services offered. <a href=https://www.svt.se/nyheter/inrikes/sas-chef-pa-internt-mote-vi-kan-inte-ha-alla-aggen-i-en-skal>link</a> ;     ;   8sidor
+
+bevarat  ;
+
+rykte  ; De som jobbar på sjukhuset tror att en orsak är sjukhusets goda {{c1::rykte}}  annan orsak kan vara att sjukhuset finns på sociala medier.;  reputation : Those who work at the hospital believe that one reason is the hospital's good reputation, another reason may be that the hospital is on social media. <a href=https://arenan.yle.fi/audio/1-50973469>link</a> ;     ;   8sidor
+
+brydde sig  ; Hennes föräldrar jobbade som lärare och {{c1::brydde sig}} å gymnasiet och gick med i partiet Socialdemokraterna.;  cared : Her parents worked as teachers and cared for high school and joined the Social Democrats. <a href=https://sverigesradio.se/artikel/magdalena-andersson-har-valts-till-socialdemokraternas-partiledare>link</a> ;     ;   8sidor
+
+har haft hand om   ; De senaste sju åren har hon varit Sveriges finansminister, och {{c1::har haft hand om }}  statens pengar.;  has taken care of : For the past seven years, she has been Sweden's Minister of Finance, and has taken care of the state's money. <a href=https://sverigesradio.se/artikel/magdalena-andersson-har-valts-till-socialdemokraternas-partiledare>link</a> ;     ;   8sidor
+
+ till och med  ;
+
+utsatt  ; – Jag som jobbat med barn undrar ju hur {{c1::utsatt}}  en pojke i den här åldern är när han misstänks för ett så pass grovt brott, säger en granne som vill vara anonym.;  exposed : - I who have worked with children wonder how vulnerable a boy at this age is when he is suspected of such a serious crime, says a neighbor who wishes to remain anonymous. <a href=https://www.svt.se/nyheter/lokalt/stockholm/ung-man-skjuten-i-huvudet-13-aring-misstanks-ligga-bakom>link</a> ;     ;   8sidor
+
+häpnar   ; Polis och politiker {{c1::häpnar }} äpnar över den exceptionellt låga åldern och pojken är nu omhändertagen enligt lagen om vård av unga, LVU.;  amazes : Police and politicians are amazed at the exceptionally young age and the boy is now being cared for according to the law on the care of young people, LVU. <a href=https://www.svt.se/nyheter/lokalt/stockholm/ung-man-skjuten-i-huvudet-13-aring-misstanks-ligga-bakom>link</a> ;     ;   8sidor
+
+anmärkningsvärt  ;
+
+statsskick  ; Monarki som {{c1::statsskick}} Länder kan styras på olika sätt.;  state : Monarchy as a state Government countries can be governed in different ways. <a href=https://sydsvenskan.minibladet.se/2021/11/06/tre-monarker-firar-tronjubileer/>link</a> ;     ;   8sidor
+
+För länge sedan  ; Bild: Daniel Eskridge/Shutterstock   LÄTTLÄST TEXT MEDELSVÅR TEXT {{c1::För länge sedan}} .;  Long ago : Photo: Daniel Eskridge / Shutterstock EASY TO READ TEXT MEDIUM DIFFICULT TEXT Long ago. <a href=https://sydsvenskan.minibladet.se/2021/10/30/veckans-fordjupning-mammutar/>link</a> ;     ;   8sidor
+
+påminner  ; Mammutar {{c1::påminner}} åminner lite om elefanter och de är faktiskt släkt.;  reminds : Mammoths are somewhat reminiscent of elephants and are actually related. <a href=https://sydsvenskan.minibladet.se/2021/10/30/veckans-fordjupning-mammutar/>link</a> ;     ;   8sidor
+
+längre kvar  ;     Mammutar finns inte {{c1::längre kvar}}  forskare är fortfarande intresserade av dem.;  longer left : Mammoths no longer exist scientists are still interested in them. <a href=https://sydsvenskan.minibladet.se/2021/10/30/veckans-fordjupning-mammutar/>link</a> ;     ;   8sidor

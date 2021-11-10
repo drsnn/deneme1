@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211106232715844350769
+// @version  20211109222504807041629
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -103,7 +103,17 @@
 'kretsar': '(circuits) kretsar',
 'uppskattar': '(appreciate) uppskattar',
 'rovdjur': '(predator) rovdjur',
-'vargstam': '() vargstam',////////////////////////////////////////////////////////
+'vargstam': '() vargstam',
+'framhåller': '(emphasizes) framhåller',
+'rykte': '(reputation) rykte',
+'brydde sig': '(cared) brydde sig',
+'har haft hand om ': '(has taken care of) har haft hand om ',
+'utsatt': '(exposed) utsatt',
+'häpnar ': '(amazes) häpnar ',
+'statsskick': '(state) statsskick',
+'För länge sedan': '(Long ago) För länge sedan',
+'påminner': '(reminds) påminner',
+'längre kvar': '(longer left) längre kvar',////////////////////////////////////////////////////////
     '':''};
 
 
