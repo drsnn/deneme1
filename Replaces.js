@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211109222504807041629
+// @version  20211111232347842270739
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -113,7 +113,16 @@
 'statsskick': '(state) statsskick',
 'För länge sedan': '(Long ago) För länge sedan',
 'påminner': '(reminds) påminner',
-'längre kvar': '(longer left) längre kvar',////////////////////////////////////////////////////////
+'längre kvar': '(longer left) längre kvar',
+'förtegen': '(reticent) förtegen',
+'inlett': '(inlett) inlett',
+'förtegen': '( övrigt) förtegen',
+'uppge': '(state) uppge',
+'utredningsåtgärder': '(investigative measures) utredningsåtgärder',
+'hör till': '(belongs to) hör till',
+'bebodda': '(inhabited) bebodda',
+'skulder': '(liabilities) skulder',
+'böter': '(fine) böter',////////////////////////////////////////////////////////
     '':''};
 
 

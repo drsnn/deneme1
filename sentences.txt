@@ -229,3 +229,25 @@ För länge sedan  ; Bild: Daniel Eskridge/Shutterstock   LÄTTLÄST TEXT MEDELS
 påminner  ; Mammutar {{c1::påminner}} åminner lite om elefanter och de är faktiskt släkt.;  reminds : Mammoths are somewhat reminiscent of elephants and are actually related. <a href=https://sydsvenskan.minibladet.se/2021/10/30/veckans-fordjupning-mammutar/>link</a> ;     ;   8sidor
 
 längre kvar  ;     Mammutar finns inte {{c1::längre kvar}}  forskare är fortfarande intresserade av dem.;  longer left : Mammoths no longer exist scientists are still interested in them. <a href=https://sydsvenskan.minibladet.se/2021/10/30/veckans-fordjupning-mammutar/>link</a> ;     ;   8sidor
+
+förtegen  ;  Under natten har polisen varit väldigt {{c1::förtegen}} örtegen och hänvisat till förundersökningssekretess.;  reticent : During the night, the police have been very secretive about the herbs and referred to the secrecy of the preliminary investigation. <a href=https://www.svt.se/nyheter/lokalt/gavleborg/person-skjuten-i-gavle>link</a> ;     ;   8sidor
+
+inlett  ; Vi har {{c1::inlett}}  en förundersökning om mord, säger Magnus Jansson Klarin, presstalesperson vid polisregion Mitt.;  inlett : We have initiated a preliminary investigation into the murder, says Magnus Jansson Klarin, press spokesperson at the Mitt police region. <a href=https://www.svt.se/nyheter/lokalt/gavleborg/person-skjuten-i-gavle>link</a> ;     ;   8sidor
+
+Anhöriga  ;
+
+ underrättade  ;
+
+förtegen  ; Söker med hund Anhöriga är underrättade men polisen är i övrigt {{c1::förtegen}} Söker med hund Anhöriga är underrättade men polisen är i övrigt {{c1::förtegen}}  – Vi har fått ett flertal samtal om att det har pågått någon form av skottlossning, det är det vi vet egentligen.;  reticent : Searching with a dog Relatives have been notified but the police are otherwise silent Searching with a dog Relatives have been notified but the police are otherwise silent - We have received several calls that there has been some form of shooting, that is what we really know. <a href=https://www.svt.se/nyheter/lokalt/gavleborg/person-skjuten-i-gavle>link</a> ;     ;   8sidor
+
+uppge  ;30-tiden på torsdagsmorgonen inte {{c1::uppge}}  om någon har gripits eller om det finns någon eller några misstänkta gärningspersoner.;  state : 30 o'clock on Thursday morning do not state if anyone has been arrested or if there are any or any suspected perpetrators. <a href=https://www.svt.se/nyheter/lokalt/gavleborg/person-skjuten-i-gavle>link</a> ;     ;   8sidor
+
+utredningsåtgärder  ; Men vi har ett flertal {{c1::utredningsåtgärder}} åtgärder som pågår samtidigt, säger Magnus Jansson Klarin.;  investigative measures : But we have a number of investigative measures that are ongoing at the same time, says Magnus Jansson Klarin. <a href=https://www.svt.se/nyheter/lokalt/gavleborg/person-skjuten-i-gavle>link</a> ;     ;   8sidor
+
+hör till  ; Åland {{c1::hör till}} .;  belongs to : Åland belongs. <a href=https://lattabladet.fi/finland/aland-firar-100-ar-utan-militar/>link</a> ;     ;   8sidor
+
+bebodda  ; 60 öar är {{c1::bebodda}} .;  inhabited : 60 islands are inhabited. <a href=https://lattabladet.fi/finland/aland-firar-100-ar-utan-militar/>link</a> ;     ;   8sidor
+
+skulder  ; Just nu har 75 000 personer {{c1::skulder}}  hos Kronofogden för att de inte betalat sina böter.;  liabilities : Right now, 75,000 people have debts with the Enforcement Officer for not paying their fines. <a href=https://sverigesradio.se/artikel/manga-som-domts-till-boter-betalar-inte>link</a> ;     ;   8sidor
+
+böter  ; Just nu har 75 000 personer skulder hos Kronofogden för att de inte betalat sina {{c1::böter}} öter.;  fine : Right now, 75,000 people are in debt to the Enforcement Officer for not paying their fines. <a href=https://sverigesradio.se/artikel/manga-som-domts-till-boter-betalar-inte>link</a> ;     ;   8sidor
