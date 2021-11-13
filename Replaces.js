@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211111232347842270739
+// @version  20211113210717760379709
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -122,7 +122,10 @@
 'hör till': '(belongs to) hör till',
 'bebodda': '(inhabited) bebodda',
 'skulder': '(liabilities) skulder',
-'böter': '(fine) böter',////////////////////////////////////////////////////////
+'böter': '(fine) böter',
+'förhandlingar': '(negotiations) förhandlingar',
+'röstboskap': '(voice cattle) röstboskap',
+'förolämpning. ': '() förolämpning. ',////////////////////////////////////////////////////////
     '':''};
 
 

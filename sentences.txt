@@ -251,3 +251,9 @@ bebodda  ; 60 öar är {{c1::bebodda}} .;  inhabited : 60 islands are inhabited.
 skulder  ; Just nu har 75 000 personer {{c1::skulder}}  hos Kronofogden för att de inte betalat sina böter.;  liabilities : Right now, 75,000 people have debts with the Enforcement Officer for not paying their fines. <a href=https://sverigesradio.se/artikel/manga-som-domts-till-boter-betalar-inte>link</a> ;     ;   8sidor
 
 böter  ; Just nu har 75 000 personer skulder hos Kronofogden för att de inte betalat sina {{c1::böter}} öter.;  fine : Right now, 75,000 people are in debt to the Enforcement Officer for not paying their fines. <a href=https://sverigesradio.se/artikel/manga-som-domts-till-boter-betalar-inte>link</a> ;     ;   8sidor
+
+förhandlingar  ;  S-ledaren Magdalena Anderssons {{c1::förhandlingar}} örhandlingar med V syftar till att V ska släppa fram henne som statsminister.;  negotiations : Social Democrat leader Magdalena Andersson's negotiations with V aim for V to release her as prime minister. <a href=https://www.svt.se/nyheter/inrikes/dadgostar-infor-forhandlingarna-vi-ar-inte-regeringens-rostboskap>link</a> ;     ;   8sidor
+
+röstboskap  ; – Vi är inte regeringens {{c1::röstboskap}} östboskap eller Centerpartiets nickedockor, säger hon i ett tal.;  voice cattle : - We are not the government's voting cattle eastern cattle or the Center Party's puppets, she says in a speech. <a href=https://www.svt.se/nyheter/inrikes/dadgostar-infor-forhandlingarna-vi-ar-inte-regeringens-rostboskap>link</a> ;     ;   8sidor
+
+förolämpning.   ;ligheten / Olika brottstyper / Förtal och förolämpning Förtal och förolämpning  Grundregeln är att åklagare inte får väcka åtal för förtal, grovt förtal eller {{c1::förolämpning. }}  är att åklagare inte får väcka åtal för förtal, grovt förtal eller förolämpning.;   :  <a href=https://www.aklagare.se/om-brottsligheten/olika-brottstyper/fortal-och-forolampning/>link</a> ;     ;   8sidor
