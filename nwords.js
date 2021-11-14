@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Highlight Text Sin
-// @version  20211113210718760381829
+// @version  2021111502101778172099
 // @description Highlights text within HTML
 // @require https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
 // @downloadURL https://raw.githubusercontent.com/drsnn/deneme1/master/nwords.js
@@ -143,3 +143,14 @@ highlightWord('böter');
 highlightWord('förhandlingar'); 
 highlightWord('röstboskap'); 
 highlightWord('förolämpning. '); 
+highlightWord('sila'); 
+highlightWord('mörklagt'); 
+highlightWord('genomfördes'); 
+highlightWord('besegra'); 
+highlightWord('skjutas upp'); 
+highlightWord('förhoppningarna'); 
+highlightWord('träsken'); 
+highlightWord('återfanns'); 
+highlightWord('vägrade'); 
+highlightWord('taggtrådsstängslen'); 
+highlightWord('taggtrådsstängslen '); 

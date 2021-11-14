@@ -154,19 +154,12 @@ innefattar  ; Tjänsten {{c1::innefattar}}  bland annat arbete på distriktsläk
 
 hagelgevär  ; Sedan uppstod ett bråk som urartade och kvinnan sköt ihjäl sin sambo med ett {{c1::hagelgevär}} är.;  shotgun : Then a quarrel arose which degenerated and the woman shot dead her partner with a shotgun. <a href=https://www.aftonbladet.se/nyheter/a/34PRLL/lydia-35-skot-ihjal-sin-sambo--braket-spelades-in-i-mobilen>link</a> ;     ;   8sidor
 
-fart  ;
-
-växts  ; Lärde du dig något nytt?   – Jag lärde mig att om man gnuggar fingrarna på en {{c1::växts}}  vackert.;  grown : Did you learn anything new? - I learned that if you rub the fingers of a plant beautifully. <a href=https://sydsvenskan.minibladet.se/lokalt/pa-besok-i-botaniska-tradgarden/>link</a> ;     ;   8sidor
 
 stugbyar  ; Nu har SCB kollat på hur många människor som har sovit över på hotell, vandrarhem och {{c1::stugbyar}}  i Sverige den här sommaren.;  holiday villages : Statistics Sweden has now looked at how many people have slept over in hotels, hostels and holiday villages in Sweden this summer. <a href=https://sydsvenskan.minibladet.se/2021/10/28/nu-har-vi-fler-turister-i-sverige-igen/>link</a> ;     ;   8sidor
 
-kulspruta  ;
 
 spöken  ; Det är platser där människor har sagt att det finns {{c1::spöken}} öken.;  ghosts : These are places where people have said that there are ghost deserts. <a href=https://8sidor.se/vardags/2021/10/laskiga-platser-i-sverige/>link</a> ;     ;   8sidor
 
-skörd  ;
-
-skörd  ;
 
 misstänkt grovt brott  ; Polisen utreder på söndagsmorgonen ett {{c1::misstänkt grovt brott}}  och ambulans larmades vid 06-tiden på söndagsmorgonen med anledning av att ett grovt brott ska ha skett i en bostad inom Haninge kommun.;  suspected felony : The police are investigating a suspected serious crime on Sunday morning and an ambulance was alerted at 06:00 on Sunday morning due to a serious crime having taken place in a home within Haninge municipality. <a href=https://www.svt.se/nyheter/lokalt/stockholm/misstankt-grovt-brott-man-gripen>link</a> ;     ;   8sidor
 
@@ -186,7 +179,6 @@ tidsangivelse  ; – Vi har ingen {{c1::tidsangivelse}}  i Swedbankappen på gru
 
 driftstörningar  ;  Sparbankerna har också {{c1::driftstörningar}} örningar och deras hemsida ligger nere.;  malfunctions : The savings banks also have malfunctions and their website is down. <a href=https://www.svt.se/nyheter/inrikes/swedbank-ligger-nere>link</a> ;     ;   8sidor
 
- i samband med  ;
 
 ohållbara   ; Den senaste tiden har flera poliser larmat om {{c1::ohållbara }} ållbara arbetssituationer.;  unsustainable : Recently, several police officers have sounded the alarm about unsustainable and aggravating work situations. <a href=https://www.svt.se/nyheter/inrikes/en-tredjedel-av-polisforbundets-medlemmar-har-letat-nytt-jobb>link</a> ;     ;   8sidor
 
@@ -240,7 +232,6 @@ Anhöriga  ;
 
 förtegen  ; Söker med hund Anhöriga är underrättade men polisen är i övrigt {{c1::förtegen}} Söker med hund Anhöriga är underrättade men polisen är i övrigt {{c1::förtegen}}  – Vi har fått ett flertal samtal om att det har pågått någon form av skottlossning, det är det vi vet egentligen.;  reticent : Searching with a dog Relatives have been notified but the police are otherwise silent Searching with a dog Relatives have been notified but the police are otherwise silent - We have received several calls that there has been some form of shooting, that is what we really know. <a href=https://www.svt.se/nyheter/lokalt/gavleborg/person-skjuten-i-gavle>link</a> ;     ;   8sidor
 
-uppge  ;30-tiden på torsdagsmorgonen inte {{c1::uppge}}  om någon har gripits eller om det finns någon eller några misstänkta gärningspersoner.;  state : 30 o'clock on Thursday morning do not state if anyone has been arrested or if there are any or any suspected perpetrators. <a href=https://www.svt.se/nyheter/lokalt/gavleborg/person-skjuten-i-gavle>link</a> ;     ;   8sidor
 
 utredningsåtgärder  ; Men vi har ett flertal {{c1::utredningsåtgärder}} åtgärder som pågår samtidigt, säger Magnus Jansson Klarin.;  investigative measures : But we have a number of investigative measures that are ongoing at the same time, says Magnus Jansson Klarin. <a href=https://www.svt.se/nyheter/lokalt/gavleborg/person-skjuten-i-gavle>link</a> ;     ;   8sidor
 
@@ -257,3 +248,30 @@ förhandlingar  ;  S-ledaren Magdalena Anderssons {{c1::förhandlingar}} örhand
 röstboskap  ; – Vi är inte regeringens {{c1::röstboskap}} östboskap eller Centerpartiets nickedockor, säger hon i ett tal.;  voice cattle : - We are not the government's voting cattle eastern cattle or the Center Party's puppets, she says in a speech. <a href=https://www.svt.se/nyheter/inrikes/dadgostar-infor-forhandlingarna-vi-ar-inte-regeringens-rostboskap>link</a> ;     ;   8sidor
 
 förolämpning.   ;ligheten / Olika brottstyper / Förtal och förolämpning Förtal och förolämpning  Grundregeln är att åklagare inte får väcka åtal för förtal, grovt förtal eller {{c1::förolämpning. }}  är att åklagare inte får väcka åtal för förtal, grovt förtal eller förolämpning.;   :  <a href=https://www.aklagare.se/om-brottsligheten/olika-brottstyper/fortal-och-forolampning/>link</a> ;     ;   8sidor
+
+sila  ; En bard är en slags skiva som bardvalarna använder för att {{c1::sila}}  maten i stället för att tugga den.;  they : A bard is a kind of disc that the baleen whales use to strain the food instead of chewing it. <a href=https://sydsvenskan.minibladet.se/2021/11/09/valar-ater-mer-an-vantat/>link</a> ;     ;   8sidor
+
+
+
+
+mörklagt  ;gning PUBLICERAD IDAG 05:41 USA:s militär har {{c1::mörklagt}} örklagt omständigheterna kring en flygräd i Syrien som dödade 64 kvinnor och barn 2019, skriver tidningen The New York Times.;  darkened : gning PUBLISHED TODAY 05:41 The US military has obscured the circumstances surrounding an air raid in Syria that killed 64 women and children in 2019, writes the newspaper The New York Times. <a href=https://www.svt.se/nyheter/utrikes/usa-s-militar-anklagas-for-morkning>link</a> ;     ;   8sidor
+
+genomfördes  ; De två bombanfallen nära staden Baghouz {{c1::genomfördes}} ördes under slutoffensiven mot terrorgruppen IS i regionen, och flygräderna beordrades av amerikanska specialstyrkor.;  was implemented : The two bombings near the city of Baghouz were carried out during the final offensive against the terrorist group IS in the region, and the air raids were ordered by US special forces. <a href=https://www.svt.se/nyheter/utrikes/usa-s-militar-anklagas-for-morkning>link</a> ;     ;   8sidor
+
+besegra  ;  De amerikanska militära insatserna genomfördes under alliansen Syriens demokratiska styrkors (SDF) offensiv för att {{c1::besegra}}  IS i regionen.;  defeat : The US military operation was carried out during the alliance Syria's Democratic Forces (SDF) offensive to defeat IS in the region. <a href=https://www.svt.se/nyheter/utrikes/usa-s-militar-anklagas-for-morkning>link</a> ;     ;   8sidor
+
+som någonsin skapats  ;
+
+skjutas upp  ;  Om allt går som planerat kommer superteleskopet {{c1::skjutas upp}}  upp från rymdbasen i Franska Guyana den 18 december.;  postponed : If all goes according to plan, the super telescope will be launched from the space base in French Guiana on December 18. <a href=https://www.svt.se/nyheter/vetenskap/nya-superteleskopet-som-kan-forandra-hur-vi-ser-pa-universum>link</a> ;     ;   8sidor
+
+förhoppningarna  ;  Och {{c1::förhoppningarna}} örhoppningarna är stora.;  the hopes : And the high hopes are high. <a href=https://www.svt.se/nyheter/vetenskap/nya-superteleskopet-som-kan-forandra-hur-vi-ser-pa-universum>link</a> ;     ;   8sidor
+
+träsken  ; Folk drack vatten från {{c1::träsken}} äsken i skogen.;  the swamps : People drank water from the swamp box in the forest. <a href=https://www.aftonbladet.se/nyheter/a/a780a7/knuffen-vid-gransen-blev-familjens-vag-in-i-polen>link</a> ;     ;   8sidor
+
+återfanns  ;  Mannens DNA {{c1::återfanns}}  {{c1::återfanns}} på det misstänkta mordvapnet, men själv nekade han till brott och släpptes senare i brist på bevis.;  was found : The man's DNA was found on the suspected murder weapon, but he himself denied the crime and was later released for lack of evidence. <a href=https://www.svt.se/nyheter/lokalt/stockholm/dodspatrullens-ledare-begard-haktad-i-sin-utevaro-misstankt-for-flera-mord>link</a> ;     ;   8sidor
+
+vägrade  ; Belarusierna {{c1::vägrade}} ägrade skicka tillbaka hans kropp till familjen.;  refused : The Belarusians refused to send his body back to the family. <a href=https://www.aftonbladet.se/nyheter/a/a780a7/knuffen-vid-gransen-blev-familjens-vag-in-i-polen>link</a> ;     ;   8sidor
+
+
+
+taggtrådsstängslen   ; Filmer visar kvinnor, män och barn som byggt upp läger bredvid {{c1::taggtrådsstängslen }} ådsstängslen som polska myndigheter satt upp för att hindra människor att ta sig in i landet.;  barbed wire fences : Films show women, men and children building camps next to the barbed wire fence, the fence set up by Polish authorities to prevent people from entering the country. ;  <a href=https://www.svt.se/nyheter/utrikes/kameran-hassan-tvingades-sova-fyra-natter-med-sin-familj-i-skogen>link</a> ;     ;   8sidor
