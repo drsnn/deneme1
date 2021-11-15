@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211115030001108015049
+// @version  20211115161800586808519
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -138,7 +138,12 @@
 'taggtrådsstängslen': '(barbed wire fences) taggtrådsstängslen',
 'taggtrådsstängslen ': '(barbed wire fences) taggtrådsstängslen ',
 'operasångerska': '(opera singer) operasångerska',
-'varelser': '(creatures) varelser',////////////////////////////////////////////////////////
+'varelser': '(creatures) varelser',
+'fastighet ': '(real estate) fastighet ',
+'anhållits': '(arrested) anhållits',
+'Tillståndet': '(The condition) Tillståndet',
+'utsatts': '() utsatts',
+'fördes': '(was carried) fördes',////////////////////////////////////////////////////////
     '':''};
 
 

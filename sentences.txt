@@ -280,3 +280,13 @@ operasångerska  ; Hennes mamma Malena Ernman är {{c1::operasångerska}} ånger
 
 
 varelser  ;  Är du intresserad av övernaturliga {{c1::varelser}} ? Det var inte bara förr i tiden man trodde på väsen och skrock.;  creatures : Are you interested in supernatural beings? It was not just in the past that people believed in essence and shock. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/14/veckans-boktips-modern-vasenologi-var-tids-vasen/>link</a> ;     
+
+fastighet   ;   – Frälsningsarmens gamla {{c1::fastighet }}  i Skelleftehamn såldes för tre miljoner kronor.;  real estate : - The Salvation Army's old property in Skelleftehamn was sold for three million kronor. ;  <a href=https://www.svt.se/nyheter/lokalt/vasterbotten/prishysteri-i-skelleftea-bostader-hyrs-ut-for-70000-kronor-i-manaden>link</a> ;     
+
+anhållits  ; Två vuxna som ska ha en nära relation till barnen har {{c1::anhållits}} ållits misstänkta för mord och mordförsök.;  arrested : Two adults who are to have a close relationship with the children have been arrested on suspicion of murder and attempted murder. ;  <a href=https://www.svt.se/nyheter/lokalt/stockholm/tva-barn-skadade-mordforsok-misstanks>link</a> ;     
+
+Tillståndet  ; {{c1::Tillståndet}} åndet för det andra barnet är fortfarande allvarligt med livshotande skador.;  The condition : The state of mind of the other child is still serious with life-threatening injuries. ;  <a href=https://www.svt.se/nyheter/lokalt/stockholm/tva-barn-skadade-mordforsok-misstanks>link</a> ;     
+
+utsatts  ;  – Vi misstänker att barnen {{c1::utsatts}}  limit has been exceeded.;   :  ;  <a href=https://www.svt.se/nyheter/lokalt/stockholm/tva-barn-skadade-mordforsok-misstanks>link</a> ;     
+
+fördes  ;Spela igen Två barn {{c1::fördes}} ördes med ambulanshelikopter till sjukhus att ha hittats svårt skadade utanför ett flerfamiljshus i Hässelby.;  was carried : Play again Two children were taken by ambulance helicopter to hospital to have been found seriously injured outside an apartment building in Hässelby. ;  <a href=https://www.svt.se/nyheter/lokalt/stockholm/tva-barn-skadade-mordforsok-misstanks>link</a> ;     
