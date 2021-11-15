@@ -273,5 +273,10 @@ träsken  ; Folk drack vatten från {{c1::träsken}} äsken i skogen.;  the swam
 vägrade  ; Belarusierna {{c1::vägrade}} ägrade skicka tillbaka hans kropp till familjen.;  refused : The Belarusians refused to send his body back to the family. <a href=https://www.aftonbladet.se/nyheter/a/a780a7/knuffen-vid-gransen-blev-familjens-vag-in-i-polen>link</a> ;     ;   8sidor
 
 
+operasångerska  ; Hennes mamma Malena Ernman är {{c1::operasångerska}} ångerska och har bland annat tävlat för Sverige i Eurovision år 2009.;  opera singer : Her mother Malena Ernman is an opera singer and has competed for Sweden in Eurovision in 2009.;  <a href=https://sydsvenskan.minibladet.se/2021/11/13/veckans-fordjupning-greta-2/>link</a> ;  
 
-taggtrådsstängslen   ; Filmer visar kvinnor, män och barn som byggt upp läger bredvid {{c1::taggtrådsstängslen }} ådsstängslen som polska myndigheter satt upp för att hindra människor att ta sig in i landet.;  barbed wire fences : Films show women, men and children building camps next to the barbed wire fence, the fence set up by Polish authorities to prevent people from entering the country. ;  <a href=https://www.svt.se/nyheter/utrikes/kameran-hassan-tvingades-sova-fyra-natter-med-sin-familj-i-skogen>link</a> ;     ;   8sidor
+
+
+
+
+varelser  ;  Är du intresserad av övernaturliga {{c1::varelser}} ? Det var inte bara förr i tiden man trodde på väsen och skrock.;  creatures : Are you interested in supernatural beings? It was not just in the past that people believed in essence and shock. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/14/veckans-boktips-modern-vasenologi-var-tids-vasen/>link</a> ;     

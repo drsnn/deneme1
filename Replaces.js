@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  2021111502101678169989
+// @version  20211115030001108015049
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -136,7 +136,9 @@
 'återfanns': '(was found) återfanns',
 'vägrade': '(refused) vägrade',
 'taggtrådsstängslen': '(barbed wire fences) taggtrådsstängslen',
-'taggtrådsstängslen ': '(barbed wire fences) taggtrådsstängslen ',////////////////////////////////////////////////////////
+'taggtrådsstängslen ': '(barbed wire fences) taggtrådsstängslen ',
+'operasångerska': '(opera singer) operasångerska',
+'varelser': '(creatures) varelser',////////////////////////////////////////////////////////
     '':''};
 
 
