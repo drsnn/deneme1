@@ -37,7 +37,6 @@ terräng  ;{{c1::terräng}}:   De hjälper också till att knyta upp eventuella 
 
 belysa  ;{{c1::belysa}}:   Jag gjorde såhär för att skapa opinion och {{c1::belysa}}  frågan ur ett annat perspektiv.;  illuminate: I did this to create opinion and illuminate the issue from a different perspective. <a href=https://www.svt.se/nyheter/inrikes/veteranerna-lamnar-tillbaka-sina-medaljer>link</a> ;     ;   8sidor
 
-förlöpande  ;{{c1::förlöpande}}: Det finns flera typer av bromsmediclner som kan ges vid skowis {{c1::förlöpande}} örlöpande MS - den vanligaste formen av MS.;  Sequelae: There are several types of antidepressants that can be given in Skowi's seizure or MS - the most common form of MS. <a href=https://www.multipelskleros.nu/sv_SE/hem/leva_med_ms/behandling/bromsmediciner.html>link</a> ;     ;   8sidor
 
 Giltigt  ;{{c1::Giltigt}}:  provdagen kommer dessa saker krävas:{{c1::Giltigt}}	•	{{c1::Giltigt}} svenskt ID-kort, alternativt pass eller LMA-kort.	•	UmU-;  Valid: on the test day, these things will be required: Valid • Valid Swedish ID card, alternatively passport or LMA card. • UmU- <a href=https://www.moodle.umu.se/course/view.php?id=886&section=6>link</a> ;     ;   8sidor
 
@@ -297,4 +296,17 @@ i vanliga fall  ; Hon jobbar på ett konditori {{c1::i vanliga fall}}  som tävl
 
 skivor  ; Mackan är gjord med två {{c1::skivor}}  bröd av vete.;  discs : The sandwich is made with two slices of wheat bread. ;  <a href=https://8sidor.se/sverige/2021/11/hennes-macka-ar-godast/>link</a> ;     
 
-stolt  ;
+
+
+
+åtminstone  ;
+
+påvisa   ;  2014 publicerades ett arbete som med en ny metod för första gången lyckades {{c1::påvisa }} åvisa peptidoglykan i C trachomatis cellväggar [5].;  demonstrate : In 2014, a work was published which, with a new method, for the first time succeeded in detecting peptidoglycan in the cell walls of C trachomatis [5]. ;  <a href=https://lakartidningen.se/opinion/debatt/2021/11/vilseledande-i-fass-om-klamydia-och-amoxicillin/>link</a> ;     
+
+undvikbar   ; Xeroftalmi är den vanligaste orsaken till {{c1::undvikbar }}  blindhet hos barn i världen [1].;  avoidable : Xerophthalmia is the most common cause of avoidable blindness in children in the world [1]. ;  <a href=https://lakartidningen.se/klinik-och-vetenskap-1/artiklar-1/fallbeskrivning/2021/11/xeroftalmi-tidig-diagnos-kan-hindra-irreversibla-ogonskador/>link</a> ;     
+
+ målsman  ;
+
+ färdighet   ;
+
+uppnå   ; finns ingen allmänt vedertagen definition av mental träning, men den övergripande innebörden kan sammanfattas som  »psykologiska tekniker för att optimera utförande och underlätta för en individ eller ett team att {{c1::uppnå }} å sin fulla potential«.;  achieve : There is no generally accepted definition of mental training, but the overall meaning can be summarized as "psychological techniques to optimize performance and make it easier for an individual or a team to reach its full potential". ;  <a href=https://lakartidningen.se/klinik-och-vetenskap-1/kommentar/2021/11/vi-har-nagot-att-lara-oss-av-stridspiloter-och-elitidrottare/>link</a> ;     
