@@ -290,3 +290,11 @@ Tillståndet  ; {{c1::Tillståndet}} åndet för det andra barnet är fortfarand
 utsatts  ;  – Vi misstänker att barnen {{c1::utsatts}}  limit has been exceeded.;   :  ;  <a href=https://www.svt.se/nyheter/lokalt/stockholm/tva-barn-skadade-mordforsok-misstanks>link</a> ;     
 
 fördes  ;Spela igen Två barn {{c1::fördes}} ördes med ambulanshelikopter till sjukhus att ha hittats svårt skadade utanför ett flerfamiljshus i Hässelby.;  was carried : Play again Two children were taken by ambulance helicopter to hospital to have been found seriously injured outside an apartment building in Hässelby. ;  <a href=https://www.svt.se/nyheter/lokalt/stockholm/tva-barn-skadade-mordforsok-misstanks>link</a> ;     
+
+
+
+i vanliga fall  ; Hon jobbar på ett konditori {{c1::i vanliga fall}}  som tävlar i SM ska göra en egen macka.;  normally : She works at a patisserie in ordinary cases that competes in SMska make her own sandwich. ;  <a href=https://8sidor.se/sverige/2021/11/hennes-macka-ar-godast/>link</a> ;     
+
+skivor  ; Mackan är gjord med två {{c1::skivor}}  bröd av vete.;  discs : The sandwich is made with two slices of wheat bread. ;  <a href=https://8sidor.se/sverige/2021/11/hennes-macka-ar-godast/>link</a> ;     
+
+stolt  ;
