@@ -310,3 +310,15 @@ undvikbar   ; Xeroftalmi är den vanligaste orsaken till {{c1::undvikbar }}  bli
  färdighet   ;
 
 uppnå   ; finns ingen allmänt vedertagen definition av mental träning, men den övergripande innebörden kan sammanfattas som  »psykologiska tekniker för att optimera utförande och underlätta för en individ eller ett team att {{c1::uppnå }} å sin fulla potential«.;  achieve : There is no generally accepted definition of mental training, but the overall meaning can be summarized as "psychological techniques to optimize performance and make it easier for an individual or a team to reach its full potential". ;  <a href=https://lakartidningen.se/klinik-och-vetenskap-1/kommentar/2021/11/vi-har-nagot-att-lara-oss-av-stridspiloter-och-elitidrottare/>link</a> ;     
+
+riken  ; Djurrikets klassificering[redigera | redigera wikitext] Klassificeringen av liv i {{c1::riken}}  har förändrats över tid och det har även lett till förändring av vilka organismer som tillhör djurriket.;  riken : Classification of the animal kingdom [edit | edit wikitext] The classification of life in kingdoms has changed over time and it has also led to a change in which organisms belong to the animal kingdom. ;  <a href=https://sv.wikipedia.org/wiki/Djur>link</a> ;     
+
+ropen  ; Trafikverket säger också att de flesta inte lyssnar på {{c1::ropen}} .;  ropen : The Swedish Transport Administration also says that most people do not listen to the shouts. ;  <a href=https://8sidor.se/sverige/2021/11/stopp-for-rop-pa-stationer/>link</a> ;     
+
+rörigt  ; Det kan vara {{c1::rörigt}} örigt.;  messy : It can be messy. ;  <a href=https://8sidor.se/sverige/2021/11/stopp-for-rop-pa-stationer/>link</a> ;     
+
+arbetstagare  ; Företaget har 6 200 {{c1::arbetstagare}} i Finland.;   :  ;  <a href=https://lattabladet.fi/finland/nokia-sager-upp-personal/>link</a> ;     
+
+sägs upp  ;  De flesta som {{c1::sägs upp}}  jobbar utomlands.;   :  ;  <a href=https://lattabladet.fi/finland/nokia-sager-upp-personal/>link</a> ;     
+
+ glider in i  ;
