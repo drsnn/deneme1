@@ -322,3 +322,13 @@ arbetstagare  ; Företaget har 6 200 {{c1::arbetstagare}} i Finland.;   :  ;  <a
 sägs upp  ;  De flesta som {{c1::sägs upp}}  jobbar utomlands.;   :  ;  <a href=https://lattabladet.fi/finland/nokia-sager-upp-personal/>link</a> ;     
 
  glider in i  ;
+
+ brasvärmeföreninge  ;
+
+eldröken  ;  För att inte {{c1::eldröken}} öken ska vara farlig för dig är det viktigt att använda en bra spis och bra bränsle, menar Westberg.;  the fire smoke : In order for the desert smoke desert not to be dangerous for you, it is important to use a good stove and good fuel, says Westberg. ;  <a href=https://www.svt.se/nyheter/inrikes/brasvarmeexperten-sa-eldar-du-sakert-hemma>link</a> ;     
+
+förutsättningarna  ; Sverige har {{c1::förutsättningarna}} örutsättningarna att klara sig ifrån en allvarlig coronavåg den här hösten och vintern.;  the conditions : Sweden has the conditions to survive a serious corona wave this autumn and winter. ;  <a href=https://www.svt.se/nyheter/inrikes/experterna-det-talar-for-och-emot-okad-smitta-i-sverige>link</a> ;     
+
+besvärligt  ;  – Det är hög risk för stor smittoökning men det är mycket svårare att avgöra för hur {{c1::besvärligt}} ärligt det kan bli i vården.;  awkward : - There is a high risk of a large increase in infection, but it is much more difficult to determine how difficult it can be to be honest in care. ;  <a href=https://www.svt.se/nyheter/inrikes/experterna-det-talar-for-och-emot-okad-smitta-i-sverige>link</a> ;     
+
+lyckas  ;  – Det beror på hur man {{c1::lyckas}}  jobba med åtgärder som inte är så restriktiva och hur väl vi {{c1::lyckas}} få ut vaccin och boosterdoser, säger hon.;  succeed : - It depends on how we manage to work with measures that are not so restrictive and how well we manage to get vaccines and booster doses, she says. ;  <a href=https://www.svt.se/nyheter/inrikes/experterna-det-talar-for-och-emot-okad-smitta-i-sverige>link</a> ;     

@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211118230335830151919
+// @version  20211120101343368234509
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -153,7 +153,11 @@
 'ropen': '(ropen) ropen',
 'rörigt': '(messy) rörigt',
 'arbetstagare': '() arbetstagare',
-'sägs upp': '() sägs upp',////////////////////////////////////////////////////////
+'sägs upp': '() sägs upp',
+'eldröken': '(the fire smoke) eldröken',
+'förutsättningarna': '(the conditions) förutsättningarna',
+'besvärligt': '(awkward) besvärligt',
+'lyckas': '(succeed) lyckas',////////////////////////////////////////////////////////
     '':''};
 
 
