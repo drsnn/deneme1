@@ -332,3 +332,19 @@ förutsättningarna  ; Sverige har {{c1::förutsättningarna}} örutsättningarn
 besvärligt  ;  – Det är hög risk för stor smittoökning men det är mycket svårare att avgöra för hur {{c1::besvärligt}} ärligt det kan bli i vården.;  awkward : - There is a high risk of a large increase in infection, but it is much more difficult to determine how difficult it can be to be honest in care. ;  <a href=https://www.svt.se/nyheter/inrikes/experterna-det-talar-for-och-emot-okad-smitta-i-sverige>link</a> ;     
 
 lyckas  ;  – Det beror på hur man {{c1::lyckas}}  jobba med åtgärder som inte är så restriktiva och hur väl vi {{c1::lyckas}} få ut vaccin och boosterdoser, säger hon.;  succeed : - It depends on how we manage to work with measures that are not so restrictive and how well we manage to get vaccines and booster doses, she says. ;  <a href=https://www.svt.se/nyheter/inrikes/experterna-det-talar-for-och-emot-okad-smitta-i-sverige>link</a> ;     
+
+kapats  ; Örebro universitets twitterkonto har av allt att döma {{c1::kapats}} .;  kapats : Örebro University's twitter account has apparently been hijacked. ;  <a href=https://www.svt.se/nyheter/lokalt/orebro/orebro-universitets-twitterkonto-kapat-twittrar-bara-om-bitcoin>link</a> ;     
+
+tårögd  ;
+
+vägskyltar  ;Collage på {{c1::vägskyltar}} och höstlöv Veckans nyheter handlar bland annat om hösten och {{c1::vägskyltar}} ägskyltar.;  road signs : Collage on road signs and autumn leaves This week's news is about autumn and road signs, property signs. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/20/nyhetsvecka-46/>link</a> ;     
+
+skräpade ner  ; De har undersökt hur mycket människor {{c1::skräpade ner}}  på Kebnekaise i somras.;  littered : They have investigated how much people littered Kebnekaise this summer. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/17/mindre-skrapigt-pa-kebnekaise-i-ar/>link</a> ;     
+
+nedstägning  ;  – Det är ju en fantastisk respons, de blir så glada att Göteborgs Stad hör av sig efter en så lång {{c1::nedstägning}} ägning och isolering.;  descent : - It is a fantastic response, they are so happy that the City of Gothenburg hears from them after such a long descent, ownership and isolation. ;  <a href=https://sverigesradio.se/artikel/goteborgs-stad-vill-att-ingen-aldre-ska-vara-ensam>link</a> ;     
+
+hör av sig  ;  – Det är ju en fantastisk respons, de blir så glada att Göteborgs Stad {{c1::hör av sig}}  efter en så lång nedstägning och isolering.;  get in touch : - It is a fantastic response, they are so happy that the City of Gothenburg hears from them after such a long descent and isolation. ;  <a href=https://sverigesradio.se/artikel/goteborgs-stad-vill-att-ingen-aldre-ska-vara-ensam>link</a> ;     
+
+lockar  ; Man {{c1::lockar}}  dem att börja i dagis genom att göra deltagandet gratis.;  attracts : You entice them to start kindergarten by making participation free. ;  <a href=https://arenan.yle.fi/audio/1-50960328>link</a> ;     
+
+nog  ;ingar har inte börjat jobba  men fler femåringar har {{c1::nog}}  börjat på dagis.;  yet : ings have not started working but more five-year-olds have probably started kindergarten. ;  <a href=https://arenan.yle.fi/audio/1-50960328>link</a> ;     

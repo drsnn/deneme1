@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211120101343368234509
+// @version  20211120231918839584159
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -157,7 +157,14 @@
 'eldröken': '(the fire smoke) eldröken',
 'förutsättningarna': '(the conditions) förutsättningarna',
 'besvärligt': '(awkward) besvärligt',
-'lyckas': '(succeed) lyckas',////////////////////////////////////////////////////////
+'lyckas': '(succeed) lyckas',
+'kapats': '(kapats) kapats',
+'vägskyltar': '(road signs) vägskyltar',
+'skräpade ner': '(littered) skräpade ner',
+'nedstägning': '(descent) nedstägning',
+'hör av sig': '(get in touch) hör av sig',
+'lockar': '(attracts) lockar',
+'nog': '(yet) nog',////////////////////////////////////////////////////////
     '':''};
 
 
