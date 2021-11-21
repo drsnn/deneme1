@@ -354,3 +354,7 @@ nog  ;ingar har inte börjat jobba  men fler femåringar har {{c1::nog}}  börja
 upprorsmakarna  ;  På lördagskvällen använde polis en vattenkanon för att släcka en hög med brinnande cyklar, som {{c1::upprorsmakarna}}  tänt eld på, i en större trafikkorsning i Haag.;  the rebels : On Saturday night, police used a water cannon to extinguish a pile of burning bicycles, which the insurgents set on fire, in a major traffic intersection in The Hague. ;  <a href=https://www.svt.se/nyheter/utrikes/flera-gripna-vid-nya-kravaller-i-nederlanderna>link</a> ;     
 
  oroligheterna  ;
+
+ oroligheter  ;
+
+kravaller  ;  I fredags bröt {{c1::kravaller}}  ut i Rotterdam och minst tre personer skadades när polisen öppnade eld.;  riots : On Friday, riots broke out in Rotterdam and at least three people were injured when the police opened fire. ;  <a href=https://www.svt.se/nyheter/utrikes/flera-gripna-vid-nya-kravaller-i-nederlanderna>link</a> ;     

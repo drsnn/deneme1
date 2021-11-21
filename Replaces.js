@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211121151103546632359
+// @version  20211121224118816781819
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -165,7 +165,8 @@
 'hör av sig': '(get in touch) hör av sig',
 'lockar': '(attracts) lockar',
 'nog': '(yet) nog',
-'upprorsmakarna': '(the rebels) upprorsmakarna',////////////////////////////////////////////////////////
+'upprorsmakarna': '(the rebels) upprorsmakarna',
+'kravaller': '(riots) kravaller',////////////////////////////////////////////////////////
     '':''};
 
 
