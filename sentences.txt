@@ -358,3 +358,15 @@ upprorsmakarna  ;  På lördagskvällen använde polis en vattenkanon för att s
  oroligheter  ;
 
 kravaller  ;  I fredags bröt {{c1::kravaller}}  ut i Rotterdam och minst tre personer skadades när polisen öppnade eld.;  riots : On Friday, riots broke out in Rotterdam and at least three people were injured when the police opened fire. ;  <a href=https://www.svt.se/nyheter/utrikes/flera-gripna-vid-nya-kravaller-i-nederlanderna>link</a> ;     
+
+upploppen  ; Fem poliser har skadats i samband med {{c1::upploppen}} , skriver nederländska tidningen De Telegraaf.;  the riots : Five policemen have been injured in connection with the riots, writes the Dutch newspaper De Telegraaf. ;  <a href=https://www.svt.se/nyheter/utrikes/flera-gripna-vid-nya-kravaller-i-nederlanderna>link</a> ;     
+
+framemot  ;
+
+budskapet   ; – Det vårdas ett ganska så stort antal personer på sjukhus som inte är vaccinerade och där man inte har nått fram med {{c1::budskapet }}  hur viktigt det är att vaccinera sig.;  the message : - A fairly large number of people are cared for in hospitals who have not been vaccinated and where the message of how important it is to be vaccinated has not been reached. ;  <a href=>link</a> ;     
+
+hästrasen  ; Man började utveckla {{c1::hästrasen}} för över hundra år sedan.;  the horse breed : They began to develop the horse breed over a hundred years ago. ;  <a href=>link</a> ;     
+
+hästrasen  ;
+
+ avlat   ;

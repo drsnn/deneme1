@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211121224118816781819
+// @version  20211122231024834246809
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -166,7 +166,10 @@
 'lockar': '(attracts) lockar',
 'nog': '(yet) nog',
 'upprorsmakarna': '(the rebels) upprorsmakarna',
-'kravaller': '(riots) kravaller',////////////////////////////////////////////////////////
+'kravaller': '(riots) kravaller',
+'upploppen': '(the riots) upploppen',
+'budskapet ': '(the message) budskapet ',
+'hästrasen': '(the horse breed) hästrasen',////////////////////////////////////////////////////////
     '':''};
 
 
