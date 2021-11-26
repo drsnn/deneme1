@@ -367,6 +367,15 @@ budskapet   ; – Det vårdas ett ganska så stort antal personer på sjukhus so
 
 hästrasen  ; Man började utveckla {{c1::hästrasen}} för över hundra år sedan.;  the horse breed : They began to develop the horse breed over a hundred years ago. ;  <a href=>link</a> ;     
 
-hästrasen  ;
 
- avlat   ;
+emellanåt  ;  – Det är bra för Hilima att springa {{c1::emellanåt}}.;  occasionally : - It's good for Hilima to run from time to time. ;  <a href=https://lattabladet.fi/vardag/finska-hasten-hilima-lever-ett-skont-liv-hos-pauliina/>link</a> ;     
+
+ åkkärra.  ;
+
+bidrar till  ; Han förklarar varför:  – Vid ett reningsverk finns många utsläppskällor och det kan vara svårt att veta vilken som {{c1::bidrar till}}  flygande näsan är en maskin som sitter på en drönare.;  contributes to : He explains why: - At a treatment plant there are many sources of emissions and it can be difficult to know which one that contributes to the flying nose is a machine that sits on a drone. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/25/flygande-nasa-ska-hitta-stanker/>link</a> ;     
+
+splittrad  ;  Brittiska BBC konstaterar i en analys att den svenska politiken är {{c1::splittrad}} .;  split : The British BBC states in an analysis that Swedish politics is divided. ;  <a href=https://www.svt.se/nyheter/utrikes/efter-magdalena-anderssons-avgang-sa-ar-reaktionerna-fran-omvarlden>link</a> ;     
+
+avgått  ;
+
+förmyndare  ;  När Britney Spears var 26 blev hennes pappa hennes {{c1::förmyndare}} örmyndare.;  Guardian : When Britney Spears was 26, her father became her guardian. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/26/britney-spears-ar-fri/>link</a> ;     
