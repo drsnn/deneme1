@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211126134905497452389
+// @version  20211127174557639579009
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -173,7 +173,12 @@
 'emellanåt': '(occasionally) emellanåt',
 'bidrar till': '(contributes to) bidrar till',
 'splittrad': '(split) splittrad',
-'förmyndare': '(Guardian) förmyndare',////////////////////////////////////////////////////////
+'förmyndare': '(Guardian) förmyndare',
+'glesbygdskommuners': '(sparsely populated municipalities) glesbygdskommuners',
+'förebyggas': '(preventable) förebyggas',
+'mättande': '(saturating) mättande',
+'Husmanskost': '(Home cooking) Husmanskost',
+'svält': '(starvation) svält',////////////////////////////////////////////////////////
     '':''};
 
 

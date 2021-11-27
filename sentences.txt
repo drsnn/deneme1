@@ -379,3 +379,15 @@ splittrad  ;  Brittiska BBC konstaterar i en analys att den svenska politiken ä
 avgått  ;
 
 förmyndare  ;  När Britney Spears var 26 blev hennes pappa hennes {{c1::förmyndare}} örmyndare.;  Guardian : When Britney Spears was 26, her father became her guardian. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/26/britney-spears-ar-fri/>link</a> ;     
+
+glesbygdskommuners  ;PUBLICERAD IDAG 08:00 Att marknadsföra ödehus är {{c1::glesbygdskommuners}}  nya sätt att locka till sig fler invånare, menar landsbygdsforskare Josefina Syssner.;  sparsely populated municipalities : PUBLISHED TODAY 08:00 Marketing desolate houses is sparsely populated municipalities' new way of attracting more residents, says rural researcher Josefina Syssner. ;  <a href=https://www.svt.se/nyheter/lokalt/norrbotten/kommunens-kritiserade-uppmaning-salj-ditt-hus-1>link</a> ;     
+
+tapeten  ;
+
+förebyggas  ; Varför vi är ett av de bästa länderna i världen på att förhindra att patienter dör av tillstånd som kan {{c1::förebyggas}} örebyggas.;  preventable : Why we are one of the best countries in the world in preventing patients from dying from preventable conditions. ;  <a href=https://lakartidningen.se/aktuellt/kronika/2021/11/ar-sjukvarden-bra-i-sverige-fragar-min-van-och-tittar-pa-mig-med-spand-blick/>link</a> ;     
+
+mättande  ;  Husmanskost är enkel men näringsrik och {{c1::mättande}} ättande vardagsmat.;  saturating : Home cooking is simple but nutritious and filling eating everyday food. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/27/veckans-fordjupning-mathistoria/>link</a> ;     
+
+Husmanskost  ; {{c1::Husmanskost}} är enkel men näringsrik och mättande vardagsmat.;  Home cooking : Home cooking is simple but nutritious and filling everyday food. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/27/veckans-fordjupning-mathistoria/>link</a> ;     
+
+svält  ; Senast det var {{c1::svält}} i Sverige var år 1867–1869.;  starvation : The last time there was a famine in Sweden was in 1867–1869. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/27/veckans-fordjupning-mathistoria/>link</a> ;     
