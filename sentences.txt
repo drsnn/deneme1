@@ -391,3 +391,13 @@ mättande  ;  Husmanskost är enkel men näringsrik och {{c1::mättande}} ättan
 Husmanskost  ; {{c1::Husmanskost}} är enkel men näringsrik och mättande vardagsmat.;  Home cooking : Home cooking is simple but nutritious and filling everyday food. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/27/veckans-fordjupning-mathistoria/>link</a> ;     
 
 svält  ; Senast det var {{c1::svält}} i Sverige var år 1867–1869.;  starvation : The last time there was a famine in Sweden was in 1867–1869. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/27/veckans-fordjupning-mathistoria/>link</a> ;     
+
+återinför   ;AG 10:39 Israel stänger sina gränser och {{c1::återinför }}AG 10:39 Israel stänger sina gränser och {{c1::återinför }} {{c1::återinför }}mobilspårning för att få stopp på spridningen av corona-varianten omikron.;  reintroduce : AG 10:39 Israel closes its borders and reintroduces AG 10:39 Israel closes its borders and reintroduces mobile tracking to stop the spread of the corona variant omikron. ;  <a href=https://www.svt.se/nyheter/utrikes/israel-stanger-gransen-for-att-forhindra-spridning-av-omikron>link</a> ;     
+
+utsträckning  ; – Vår arbetshypotes är att den nya varianten finns i nästan alla länder och att vaccinen har effekt, men vi vet ännu inte i vilken {{c1::utsträckning}} äckning, säger landets inrikesminister Ayelet Shaked till den israeliska tv-kanalen N12 enligt the Guardian.;  extent : - Our working hypothesis is that the new variant is found in almost all countries and that the vaccine has an effect, but we do not yet know to what extent coverage, says the country's Minister of the Interior Ayelet Shaked to the Israeli TV channel N12 according to the Guardian. ;  <a href=https://www.svt.se/nyheter/utrikes/israel-stanger-gransen-for-att-forhindra-spridning-av-omikron>link</a> ;     
+
+träder i kraft  ;
+
+oavsett  ;  Israeliska medborgare som reser till landet kommer att behöva sitta i karantän, {{c1::oavsett}}  om man är vaccinerad eller inte.;  regardless : Israeli citizens traveling to the country will need to be quarantined, regardless of whether they are vaccinated or not. ;  <a href=https://www.svt.se/nyheter/utrikes/israel-stanger-gransen-for-att-forhindra-spridning-av-omikron>link</a> ;     
+
+oerhört  ;   – Den italienska ekonomin och företagen drabbades {{c1::oerhört}} ört hårt av pandemin.;  extremely : - The Italian economy and companies were hit extremely hard by the pandemic. ;  <a href=https://www.svt.se/nyheter/utrikes/utrikesbyran-vaccindiktaturen-italienska-facket-vara-medlemmar-tvingas-betala-for-att-arbeta>link</a> ;     
