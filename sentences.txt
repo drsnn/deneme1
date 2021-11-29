@@ -12,7 +12,6 @@ utfärdat ; {{c1::utfärdat}}: bud mot en kvinna han tidigare haft en kortare re
 
 mordbrännaren ;{{c1::mordbrännaren}}: arnas kameror den misstänkta {{c1::mordbrännaren}} ännarenUPPDATERAD IDAG 20:29; the arsonist's cameras the suspected assassin's changer UPDATED TODAY 20:29-  <a href=https://www.svt.se/nyheter/utrikes/forskarnas-kameror-fangade-misstankt-mordbrannare>link</a> ; ; 8sidor
 
-erfara ; {{c1::erfara}}: er i Europa orsakas av extremvärmen, det fick italienska brandforskare {{c1::erfara}}  i helgen när en misstänkt mordbrännare plötsligt dök upp i fo; experience: Europe in Europe is caused by the extreme heat, Italian fire researchers experienced this weekend when a suspected arsonist suddenly appeared in the fo-  <a href=https://www.svt.se/nyheter/utrikes/forskarnas-kameror-fangade-misstankt-mordbrannare>link</a> ;  ; 8sidor
 
 avvisnings ; {{c1::avvisnings}}:  Enligt myndigheten är utgångspunkten fortfarande att personer med {{c1::avvisnings}} ; rejection: According to the authority, the starting point is still that people with rejection <a href=https://www.aftonbladet.se/nyheter/a/Eayq1G/migrationsverket-fler-kan-komma-att-soka-sig-till-sverige>link</a> ;  ; 8sidor
 
@@ -380,7 +379,7 @@ avgått  ;
 
 förmyndare  ;  När Britney Spears var 26 blev hennes pappa hennes {{c1::förmyndare}} örmyndare.;  Guardian : When Britney Spears was 26, her father became her guardian. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/26/britney-spears-ar-fri/>link</a> ;     
 
-glesbygdskommuners  ;PUBLICERAD IDAG 08:00 Att marknadsföra ödehus är {{c1::glesbygdskommuners}}  nya sätt att locka till sig fler invånare, menar landsbygdsforskare Josefina Syssner.;  sparsely populated municipalities : PUBLISHED TODAY 08:00 Marketing desolate houses is sparsely populated municipalities' new way of attracting more residents, says rural researcher Josefina Syssner. ;  <a href=https://www.svt.se/nyheter/lokalt/norrbotten/kommunens-kritiserade-uppmaning-salj-ditt-hus-1>link</a> ;     
+glesbygdskommuners  ;Att marknadsföra ödehus är {{c1::glesbygdskommuners}}  nya sätt att locka till sig fler invånare, menar landsbygdsforskare Josefina Syssner.;  sparsely populated municipalities :  Marketing desolate houses is sparsely populated municipalities' new way of attracting more residents, says rural researcher Josefina Syssner. ;  <a href=https://www.svt.se/nyheter/lokalt/norrbotten/kommunens-kritiserade-uppmaning-salj-ditt-hus-1>link</a> ;     
 
 tapeten  ;
 
@@ -392,7 +391,7 @@ Husmanskost  ; {{c1::Husmanskost}} är enkel men näringsrik och mättande varda
 
 svält  ; Senast det var {{c1::svält}} i Sverige var år 1867–1869.;  starvation : The last time there was a famine in Sweden was in 1867–1869. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/27/veckans-fordjupning-mathistoria/>link</a> ;     
 
-återinför   ;AG 10:39 Israel stänger sina gränser och {{c1::återinför }}AG 10:39 Israel stänger sina gränser och {{c1::återinför }} {{c1::återinför }}mobilspårning för att få stopp på spridningen av corona-varianten omikron.;  reintroduce : AG 10:39 Israel closes its borders and reintroduces AG 10:39 Israel closes its borders and reintroduces mobile tracking to stop the spread of the corona variant omikron. ;  <a href=https://www.svt.se/nyheter/utrikes/israel-stanger-gransen-for-att-forhindra-spridning-av-omikron>link</a> ;     
+återinför   ; Israel stänger sina gränser och {{c1::återinför }} mobilspårning för att få stopp på spridningen av corona-varianten omikron.;  reintroduce : AG 10:39 Israel closes its borders and reintroduces AG 10:39 Israel closes its borders and reintroduces mobile tracking to stop the spread of the corona variant omikron. ;  <a href=https://www.svt.se/nyheter/utrikes/israel-stanger-gransen-for-att-forhindra-spridning-av-omikron>link</a> ;     
 
 utsträckning  ; – Vår arbetshypotes är att den nya varianten finns i nästan alla länder och att vaccinen har effekt, men vi vet ännu inte i vilken {{c1::utsträckning}} äckning, säger landets inrikesminister Ayelet Shaked till den israeliska tv-kanalen N12 enligt the Guardian.;  extent : - Our working hypothesis is that the new variant is found in almost all countries and that the vaccine has an effect, but we do not yet know to what extent coverage, says the country's Minister of the Interior Ayelet Shaked to the Israeli TV channel N12 according to the Guardian. ;  <a href=https://www.svt.se/nyheter/utrikes/israel-stanger-gransen-for-att-forhindra-spridning-av-omikron>link</a> ;     
 
