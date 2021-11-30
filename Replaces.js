@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211128151811550913709
+// @version  20211130225537825374879
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -182,7 +182,10 @@
 'återinför ': '(reintroduce) återinför ',
 'utsträckning': '(extent) utsträckning',
 'oavsett': '(regardless) oavsett',
-'oerhört': '(extremely) oerhört',////////////////////////////////////////////////////////
+'oerhört': '(extremely) oerhört',
+'känslosamt': '(emotionally) känslosamt',
+'brytkraften': '(breaking force) brytkraften',
+'invigd': '(consecrated) invigd',////////////////////////////////////////////////////////
     '':''};
 
 
