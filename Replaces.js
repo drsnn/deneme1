@@ -76,7 +76,6 @@
 'slutomröstning': '(final vote) slutomröstning',
 'fruktansvärd': '(terrible) fruktansvärd',
 'lögner': '(lies) lögner',
-'tyg': '(week) tyg',
 'bränsle': '(fuel) bränsle',
 'pilbåge': '(bow) pilbåge',
 'dödsläger': '(death camp) dödsläger',
