@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211130225537825374879
+// @version  20211201201159727196509
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -185,7 +185,10 @@
 'oerhört': '(extremely) oerhört',
 'känslosamt': '(emotionally) känslosamt',
 'brytkraften': '(breaking force) brytkraften',
-'invigd': '(consecrated) invigd',////////////////////////////////////////////////////////
+'invigd': '(consecrated) invigd',
+'avgångar': '(Departures) avgångar',
+'långsiktiga': '(long-term) långsiktiga',
+'mörkertal': '(dark numbers) mörkertal',////////////////////////////////////////////////////////
     '':''};
 
 

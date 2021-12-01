@@ -408,3 +408,11 @@ brytkraften  ; Närsynthet - myopi   Närsynthet innebär att ögat är för lå
 invigd  ;  På den första advent i söndags blev Gävlebocken {{c1::invigd}} .;  consecrated : On the first Advent this Sunday, Gävlebocken was inaugurated. ;  <a href=https://sydsvenskan.minibladet.se/2021/11/30/nu-har-gavlebocken-blivit-invigd/>link</a> ;     
 
 halm  ;
+
+avgångar  ;  Strömavbrott och problem i trafiken Förutom inställda {{c1::avgångar}} ångar varnar också Trafikverket för förseningar.;  Departures : Power outages and traffic problems In addition to canceled departures, steam also warns of delays. ;  <a href=https://www.svt.se/nyheter/inrikes/ovader-med-nya-snofall-drar-in-i-soder>link</a> ;     
+
+långsiktig  ;
+
+långsiktiga  ; Det saknas kunskaper om hemlöshet i många kommuner – de flesta mäter inte hur många som är hemlösa och {{c1::långsiktiga}} ångsiktiga satsningar för att motverka problemet saknas.;  long-term : There is a lack of knowledge about homelessness in many municipalities - most do not measure how many are homeless and long-term long-term initiatives to counteract the problem are lacking. ;  <a href=https://www.svt.se/nyheter/inrikes/stadsmissionen-vill-ha-nationell-strategi-mot-hemloshet>link</a> ;     
+
+mörkertal  ;00 personer i Sverige i hemlöshet, det är fler än vid mätningen 2011 men färre kommuner har svarat på enkäten och Stadsmissionen befarar att det finns ett {{c1::mörkertal}} örkertal.;  dark numbers : 00 people in Sweden in homelessness, that is more than in the survey in 2011 but fewer municipalities have responded to the survey and the City Mission fears that there is a dark number of desert numbers. ;  <a href=https://www.svt.se/nyheter/inrikes/stadsmissionen-vill-ha-nationell-strategi-mot-hemloshet>link</a> ;     
