@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211201201159727196509
+// @version  20211205151209547290889
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -187,7 +187,24 @@
 'invigd': '(consecrated) invigd',
 'avgångar': '(Departures) avgångar',
 'långsiktiga': '(long-term) långsiktiga',
-'mörkertal': '(dark numbers) mörkertal',////////////////////////////////////////////////////////
+'mörkertal': '(dark numbers) mörkertal',
+'avvärja': '(ward off) avvärja',
+'följder': '(consequences) följder',
+'annekterade': '(annexed) annekterade',
+'rättfärdiga ': '(justify) rättfärdiga ',
+'tydliggjort': '(clarified) tydliggjort',
+'farhågor': '(fears) farhågor',
+'människoarter ': '(human species) människoarter ',
+'ofredande': '(molestation) ofredande',
+'redovisat': '(reported) redovisat',
+'hederlig': '(honest) hederlig',
+'ta in': '(ta in) ta in',
+'reningsverk': '(treatment plant) reningsverk',
+'snurrar': '(spins) snurrar',
+'slags': '(kind of) slags',
+'elledningar': '(power lines) elledningar',
+'förtryck': '(oppression) förtryck',
+'könsstympning': '(genital mutilation) könsstympning',////////////////////////////////////////////////////////
     '':''};
 
 
