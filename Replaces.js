@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211205151209547290889
+// @version  20211211222349806292799
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -204,7 +204,19 @@
 'slags': '(kind of) slags',
 'elledningar': '(power lines) elledningar',
 'förtryck': '(oppression) förtryck',
-'könsstympning': '(genital mutilation) könsstympning',////////////////////////////////////////////////////////
+'könsstympning': '(genital mutilation) könsstympning',
+'backen': '(to bake) backen',
+'klär ut sig': '(dresses up) klär ut sig',
+'retad': '(retad) retad',
+'kikar': '(kikar) kikar',
+'Efter ett tag': '(After a while) Efter ett tag',
+'fartyg': '(Ship) fartyg',
+'lastat': '(loaded) lastat',
+'förebyggande': '(prevention) förebyggande',
+'lasta': '(last) lasta',
+'rättare sagt': '(rather) rättare sagt',
+'rederiet': '(the shipping company) rederiet',
+'strängare': '(stricter) strängare',////////////////////////////////////////////////////////
     '':''};
 
 

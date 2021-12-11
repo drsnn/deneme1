@@ -150,3 +150,7 @@ frekvens #frekvens
 #intressen
 släkt #släkt
 färg #färg
+#python
+#webscrapting
+#beautiful_soup
+#applescript
