@@ -469,11 +469,8 @@ retad  ; Men årets julgran har blivit {{c1::retad}}  av många människor.;  re
 
 kikar  ;   En gåsunge {{c1::kikar}}  fram i Storbritannien.;  kikar : A gosling peeks out in Britain. ;  <a href=https://sydsvenskan.minibladet.se/2021/12/07/aprolig-bild-vinner-fototavling/>link</a> ;  ;
 
-oupptäckt  ;
 
-Efter ett tag  ;  {{c1::Efter ett tag}} .;  After a while : After a while . ;  <a href=https://8sidor.se/sverige/2021/12/viktigt-beslut-om-karnkraft/>link</a> ;  ;
-
-fartyg  ; Foto: Kustbevakningen  {{c1::fartyg}} ska få hjälp Lyssna Det brinner på ett stort {{c1::fartyg}}  i havet utanför Göteborg.;  Ship : Photo: The Coast Guard Ships to get help Listen A large ship is on fire in the sea outside Gothenburg. ;  <a href=https://8sidor.se/sverige/2021/12/fartyg-ska-fa-hjalp/>link</a> ;  ;
+fartyg  ; Det brinner på ett stort {{c1::fartyg}} i havet utanför Göteborg.; A large ship is on fire in the sea outside Gothenburg. ;  <a href=https://8sidor.se/sverige/2021/12/fartyg-ska-fa-hjalp/>link</a> ;  ;
 
 lastat  ;PUBLICERAD 6 DECEMBER 2021 Almirante Storni hade precis {{c1::lastat}}  över 40 000 kubikmeter trävirke, tankat utanför Göteborgs hamn och satt kurs mot Alexandria när det började brinna ombord.;  loaded : PUBLISHED 6 DECEMBER 2021 Almirante Storni had just loaded over 40,000 cubic meters of wood, refueled outside the port of Gothenburg and set course for Alexandria when it started to burn on board. ;  <a href=https://www.svt.se/nyheter/lokalt/vast/flera-sakerhetsbrister-upptackta-pa-brinnande-fartyget>link</a> ;  ;
 
@@ -486,3 +483,17 @@ rättare sagt  ;   – Vi har fortsatt med oförminskad kraft att spruta stora m
 rederiet  ;    I ett skriftligt svar till SVT dementerar det tyska {{c1::rederiet}}  NSC Holding att dom haft några brister och menar att all utrustning ombord är fullt fungerande.;  the shipping company : In a written response to SVT, the German shipping company NSC Holding denies that they had any shortcomings and believes that all equipment on board is fully functional. ;  <a href=https://www.svt.se/nyheter/lokalt/vast/flera-sakerhetsbrister-upptackta-pa-brinnande-fartyget>link</a> ;  ;
 
 strängare  ; Då kommer {{c1::strängare}} ängare rekommendationer och regler att användas.;  stricter : Then stricter, stricter recommendations and rules will be used. ;  <a href=https://sydsvenskan.minibladet.se/2021/12/08/nu-ska-vi-halla-storre-avstand-igen/>link</a> ;  ;
+
+prosit  ;Varför säger man {{c1::prosit}} ? "{{c1::prosit}}" måste vara ett av de allra vanligaste orden, så här i "Vabruari", förkylningarnas förlovade månad.;  asks : Photo: Shutterstock Why do you say prostitute? "Prosit" must be one of the most common words, like in "Vabruari", the promised month of colds. ;  <a href=https://www.svenskakyrkan.se/landvetterharryda/nyheter/varfor-sager-man-prosit>link</a> ;  ;
+
+Osunt  ;
+
+hyllades  ;1 Det svenska landslaget står på rad och tar emot publikens hyllningar Det svenska laget {{c1::hyllades}}  efter vinsten mot Finland.;  praised : 1 The Swedish national team stands in a row and receives the audience's tributes The Swedish team was hailed after the win against Finland. ;  <a href=https://sydsvenskan.minibladet.se/2021/12/13/sverige-vinner-vm-guld-i-innebandy/>link</a> ;  ;
+
+ädelsten  ;
+
+brandkåren  ;  Nu är branden under kontroll och {{c1::brandkåren}} åren åker därifrån.;  the fire brigade : Now the fire is under control and the fire brigade has been leaving for years. ;  <a href=https://8sidor.se/sverige/2021/12/brandkaren-har-lamnat-fartyget/>link</a> ;  ;
+
+Värnpliktiga  ;  – {{c1::Värnpliktiga}} ärnpliktiga har upplevt att det förekommit kränkande beteende och jargong, både bland {{c1::Värnpliktiga}} men även av befäl.;  Conscripts : - Conscripts have experienced that there has been abusive behavior and jargon, both among conscripts but also by officers. ;  <a href=https://www.svt.se/nyheter/lokalt/uppsala/500-varnpliktiga-skickas-hem-efter-allvarliga-krankningar>link</a> ;  ;
+
+tyngdlyftning  ;og medaljer i VM Lyssna Patricia Strenius från Karlskrona tävlar i sporten {{c1::tyngdlyftning}} .;  weightlifting : and medals in the WC Listen Patricia Strenius from Karlskrona competes in the sport of weightlifting. ;  <a href=https://8sidor.se/sport/2021/12/hon-tog-medaljer-i-vm/>link</a> ;  ;

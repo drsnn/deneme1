@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211211222349806292799
+// @version  20211215123210451307449
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -216,7 +216,12 @@
 'lasta': '(last) lasta',
 'rättare sagt': '(rather) rättare sagt',
 'rederiet': '(the shipping company) rederiet',
-'strängare': '(stricter) strängare',////////////////////////////////////////////////////////
+'strängare': '(stricter) strängare',
+'prosit': '(asks) prosit',
+'hyllades': '(praised) hyllades',
+'brandkåren': '(the fire brigade) brandkåren',
+'Värnpliktiga': '(Conscripts) Värnpliktiga',
+'tyngdlyftning': '(weightlifting) tyngdlyftning',////////////////////////////////////////////////////////
     '':''};
 
 

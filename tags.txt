@@ -154,3 +154,6 @@ färg #färg
 #webscrapting
 #beautiful_soup
 #applescript
+#scrapy
+#bashcript
+#pdf_extract
