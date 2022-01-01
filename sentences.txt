@@ -494,6 +494,20 @@ hyllades  ;1 Det svenska landslaget står på rad och tar emot publikens hyllnin
 
 brandkåren  ;  Nu är branden under kontroll och {{c1::brandkåren}} åren åker därifrån.;  the fire brigade : Now the fire is under control and the fire brigade has been leaving for years. ;  <a href=https://8sidor.se/sverige/2021/12/brandkaren-har-lamnat-fartyget/>link</a> ;  ;
 
-Värnpliktiga  ;  – {{c1::Värnpliktiga}} ärnpliktiga har upplevt att det förekommit kränkande beteende och jargong, både bland {{c1::Värnpliktiga}} men även av befäl.;  Conscripts : - Conscripts have experienced that there has been abusive behavior and jargon, both among conscripts but also by officers. ;  <a href=https://www.svt.se/nyheter/lokalt/uppsala/500-varnpliktiga-skickas-hem-efter-allvarliga-krankningar>link</a> ;  ;
+värnpliktiga  ;  – {{c1::värnpliktiga}} har upplevt att det förekommit kränkande beteende och jargong, både bland {{c1::Värnpliktiga}} men även av befäl.;  Conscripts : - Conscripts have experienced that there has been abusive behavior and jargon, both among conscripts but also by officers. ;  <a href=https://www.svt.se/nyheter/lokalt/uppsala/500-varnpliktiga-skickas-hem-efter-allvarliga-krankningar>link</a> ;  ;
 
-tyngdlyftning  ;og medaljer i VM Lyssna Patricia Strenius från Karlskrona tävlar i sporten {{c1::tyngdlyftning}} .;  weightlifting : and medals in the WC Listen Patricia Strenius from Karlskrona competes in the sport of weightlifting. ;  <a href=https://8sidor.se/sport/2021/12/hon-tog-medaljer-i-vm/>link</a> ;  ;
+tyngdlyftning  ;hon tog medaljer i VM Lyssna Patricia Strenius från Karlskrona tävlar i sporten {{c1::tyngdlyftning}} .;  weightlifting : and medals in the WC Listen Patricia Strenius from Karlskrona competes in the sport of weightlifting. ;  <a href=https://8sidor.se/sport/2021/12/hon-tog-medaljer-i-vm/>link</a> ;  ;
+
+blåste iväg  ;
+
+sjukfrånvaro  ;
+
+vibrerar  ; Stressen hos anställda och de som ska resa riktigt {{c1::vibrerar}}  i luften.;  vibrates : The stress of employees and those who are going to travel really vibrates in the air. ;  <a href=https://www.svt.se/nyheter/inrikes/sas-utesluter-inte-att-fler-avgangar-maste-stallas-in>link</a> ;  ;
+
+folkrika  ;    I det {{c1::folkrika}}  Indien, där smittspridningen varit mycket stor, är det Astra Zenecas vaccin, som alltså inte heller ger skydd mot omikron, som dominerar.;  folkrika : In populous India, where the spread of infection has been very large, it is Astra Zeneca's vaccine, which also does not provide protection against omicrons, that dominates. ;  <a href=https://www.svt.se/nyheter/vetenskap/sa-bra-skyddar-vaccinen-mot-omikronvarianten>link</a> ;  ;
+
+föremål  ;o fall av grovt olaga hot bestående av att han efter knivhugget mot läraren hotat elever och skolpersonal som befann sig på skolan med kniv och pistolliknande {{c1::föremål}} öremål.;  subject : o cases of grossly illegal threats consisting of the fact that after stabbing the teacher, he threatened students and school staff who were at the school with knives and pistol-like objects. ;  <a href=https://www.svt.se/nyheter/lokalt/skane/larare-knivhoggs-i-skoldad-nu-kommer-domen>link</a> ;  ;
+
+varit med om   ;– Jag kommer att berätta om de jular som jag har {{c1::varit med om }} .;  been through : - I will tell you about the Christmases I have been through. ;  <a href=https://8sidor.se/kultur/2020/12/tips-pa-tv-i-jul/>link</a> ;  ;
+
+smällare  ; I år har tullen stoppat massor av olagliga {{c1::smällare}} ällare inför nyår.;  firecracker : This year, customs have stopped lots of illegal firecrackers before New Year. ;  <a href=https://8sidor.se/sverige/2021/12/tullen-stoppar-allt-mer-smallare/>link</a> ;  ;

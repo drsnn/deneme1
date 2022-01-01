@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20211215123210451307449
+// @version  20211230205832755125879
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -221,7 +221,12 @@
 'hyllades': '(praised) hyllades',
 'brandkåren': '(the fire brigade) brandkåren',
 'Värnpliktiga': '(Conscripts) Värnpliktiga',
-'tyngdlyftning': '(weightlifting) tyngdlyftning',////////////////////////////////////////////////////////
+'tyngdlyftning': '(weightlifting) tyngdlyftning',
+'vibrerar': '(vibrates) vibrerar',
+'folkrika': '(folkrika) folkrika',
+'föremål': '(subject) föremål',
+'varit med om ': '(been through) varit med om ',
+'smällare': '(firecracker) smällare',////////////////////////////////////////////////////////
     '':''};
 
 

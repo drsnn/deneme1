@@ -134,22 +134,22 @@ underarm #underarm
 #aminoacids
 #catecholamine
 #glasgow_coma_scale
-Reaction level scale #reaction_level_scale
-Acute trauma #acute_trauma
-pO2 #po2
-morfine #morfine
-oxycodine #oxycodine
+#reaction_level_scale
+#acute_trauma
+#po2
+#morfine
+#oxycodine
 #mortality_rate
-Status epilepticus #status_epilepticus
+#status_epilepticus
 #alcohol_use_disorder
-oligomenoria #oligomenoria
-Renal cell cancer #renal_cell_cancer
+#oligomenoria
+#renal_cell_cancer
 #fontanella
 #alphabet
-frekvens #frekvens
+#frekvens
 #intressen
-släkt #släkt
-färg #färg
+#släkt
+#färg
 #python
 #webscrapting
 #beautiful_soup
@@ -157,3 +157,27 @@ färg #färg
 #scrapy
 #bashcript
 #pdf_extract
+#regex
+#python_learning
+#pypdf2
+#javascript
+#extract_sentence
+#learning
+#popclip_extensions
+#pdfoutline
+#combine_multiple_pdfs
+#pdf_table_extract
+#karabiner
+#alfred
+#selenium
+#hypertension
+#neurologi_medvetslöshet
+#sed
+#konus
+#eos_quia_omnis_qui_blanditiis_laborum._sed_error_fugiat_doloremque._sed_ut_et_quas_rerum_quasi_voluptatem_doloremque_excepturi._ut_sit_porro_autem_occaecati_id_expedita_quia._dolor_similique_vel_nesciunt_aspernatur_fuga_natus_aut_et._veniam_ut_cumque_quis_ut.perspiciatis_quam_eum_eveniet_rem_et_sint_id_voluptates._quaerat_voluptatem_ut_alias_voluptatum_qui_ab_tempore_ut._molestiae_odio_consequatur_ut_maxime_impedit._numquam_voluptatem_velit_iste_dignissimos_molestias_et._aliquam_et_ullam_voluptatem_corrupti_fugit_ullam_quia_consequatur._quia_sapiente_ab_dolore_velit_sed_odit_eum.eos_quia_omnis_qui_blanditiis_laborum._sed_error_fugiat_doloremque._sed_ut_et_quas_rerum_quasi_voluptatem_doloremque_excepturi._ut_sit_porro_autem_occaecati_id_expedita_quia._dolor_similique_vel_nesciunt_aspernatur_fuga_natus_aut_et._veniam_ut_cumque_quis_ut.perspiciatis_quam_eum_eveniet_rem_et_sint_id_voluptates._quaerat_voluptatem_ut_alias_voluptatum_qui_ab_tempore_ut._molestiae_odio_consequatur_ut_maxime_impedit._numquam_voluptatem_velit_iste_dignissimos_molestias_et._aliquam_et_ullam_voluptatem_corrupti_fugit_ullam_quia_consequatur._quia_sapiente_ab_dolore_velit_sed_odit_eum.eos_quia_omnis_qui_blanditiis_laborum._sed_error_fugiat_doloremque._sed_ut_et_quas_rerum_quasi_voluptatem_doloremque_excepturi._ut_sit_porro_autem_occaecati_id_expedita_quia._dolor_similique_vel_nesciunt_aspernatur_fuga_natus_aut_et._veniam_ut_cumque_quis_ut.
+#skimpdf
+#vimwiki
+#goku
+#awesome
+#macbook
+#terminal
