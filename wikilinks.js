@@ -10,7 +10,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  202212151232104513388555
+// @version  202212151232104513388599
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/wikilinks.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/wikilink.js
