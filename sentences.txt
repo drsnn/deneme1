@@ -519,3 +519,5 @@ lindriga  ;  – De har {{c1::lindriga}}  symtom.;  mild : - They have mild symp
 brevlådorna  ;säger att brevbärarna ofta inte har något att lägga i {{c1::brevlådorna}} ådorna.;  the mailboxes : says that postmen often have nothing to put in the mailboxes of the veins. ;  <a href=https://8sidor.se/sverige/2022/01/alla-ska-fa-post-varannan-dag/>link</a> ;  ;
 
  bioavfall  ;
+
+troligen  ; Men de är {{c1::troligen}}  smittade med en annan sort av corona som heter delta.;  probably : But they are probably infected with another variety of corona called delta. ;  <a href=https://8sidor.se/sverige/2022/01/manga-blir-smittade/>link</a> ;  ;

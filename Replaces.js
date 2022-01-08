@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20220105111440404809149
+// @version  2022010900461527750869
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -229,7 +229,8 @@
 'smällare': '(firecracker) smällare',
 'slänga': '(throw) slänga',
 'lindriga': '(mild) lindriga',
-'brevlådorna': '(the mailboxes) brevlådorna',////////////////////////////////////////////////////////
+'brevlådorna': '(the mailboxes) brevlådorna',
+'troligen': '(probably) troligen',////////////////////////////////////////////////////////
     '':''};
 
 
