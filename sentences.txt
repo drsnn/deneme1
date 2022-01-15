@@ -523,3 +523,7 @@ brevlådorna  ;säger att brevbärarna ofta inte har något att lägga i {{c1::b
 troligen  ; Men de är {{c1::troligen}}  smittade med en annan sort av corona som heter delta.;  probably : But they are probably infected with another variety of corona called delta. ;  <a href=https://8sidor.se/sverige/2022/01/manga-blir-smittade/>link</a> ;  ;
 
 vårdskuld  ;Alla verkar överens om att det behövs extra åtgärder för att försöka beta av den {{c1::vårdskuld}} årdskuld som coronapandemin har orsakat.;  care debt : Everyone seems to agree that extra measures are needed to try to pay off the care debt that the corona pandemic has caused. ;  <a href=https://www.dagensmedicin.se/opinion/debatt/infor-fritt-vardval-for-all-vard/>link</a> ;  ;
+
+bivax  ;
+
+bivax  ; {{c1::bivax}}  Ost? Nej det här är {{c1::bivax}} .;  beeswax : Bivax Ost? No, this is beeswax. ;  <a href=https://www.hant.se/life/loss-slaktrester-och-bivax-har-ar-specialingredienserna-i-ditt-paskgodis/4986680>link</a> ;  ;
