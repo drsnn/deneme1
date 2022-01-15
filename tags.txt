@@ -191,3 +191,4 @@ polymyosit #polymyosit
 #svensk_ordbook
 #svensk_resources
 #blender
+#synonym
