@@ -238,6 +238,6 @@ var words = [
 {word: 'slänga', link: '<a class="wikilink" title="throw" href="https://sv.wiktionary.org/wiki/slänga"',},
 {word: 'lindriga', link: '<a class="wikilink" title="mild" href="https://sv.wiktionary.org/wiki/lindriga"',},
 {word: 'brevlådorna', link: '<a class="wikilink" title="the mailboxes" href="https://sv.wiktionary.org/wiki/brevlådorna"',},
-{word: 'troligen', link: '<a class="wikilink" title=""probably" href="https://sv.wiktionary.org/wiki/troligen”',},
-{word: 'vårdskuld', link: '<a class="wikilink" title=""care debt" href="https://sv.wiktionary.org/wiki/vårdskuld”',},
-{word: 'bivax', link: '<a class="wikilink" title=""beeswax" href="https://sv.wiktionary.org/wiki/bivax”',},];
+{word: 'troligen', link: '<a class="wikilink" title="probably" href="https://sv.wiktionary.org/wiki/troligen”',},
+{word: 'vårdskuld', link: '<a class="wikilink" title="care debt" href="https://sv.wiktionary.org/wiki/vårdskuld”',},
+{word: 'bivax', link: '<a class="wikilink" title="beeswax" href="https://sv.wiktionary.org/wiki/bivax”',},];
