@@ -11,7 +11,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  2022010900461527750869
+// @version  20220110194930713703499
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/Replaces.js
@@ -230,7 +230,8 @@
 'slänga': '(throw) slänga',
 'lindriga': '(mild) lindriga',
 'brevlådorna': '(the mailboxes) brevlådorna',
-'troligen': '(probably) troligen',////////////////////////////////////////////////////////
+'troligen': '(probably) troligen',
+'vårdskuld': '(care debt) vårdskuld',////////////////////////////////////////////////////////
     '':''};
 
 

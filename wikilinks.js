@@ -10,7 +10,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  2022010900461427748709
+// @version  20220110194930713701339
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/wikilinks.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/wikilink.js
@@ -238,4 +238,5 @@ var words = [
 {word: 'slänga', link: '<a class="wikilink" title=throw"href="https://sv.wiktionary.org/wiki/slänga"',},
 {word: 'lindriga', link: '<a class="wikilink" title=mild"href="https://sv.wiktionary.org/wiki/lindriga"',},
 {word: 'brevlådorna', link: '<a class="wikilink" title=the mailboxes"href="https://sv.wiktionary.org/wiki/brevlådorna"',},
-{word: 'troligen', link: '<a class="wikilink" title="probably" href="https://sv.wiktionary.org/wiki/troligen”',},];
+{word: 'troligen', link: '<a class="wikilink" title="probably" href="https://sv.wiktionary.org/wiki/troligen”',},
+{word: 'vårdskuld', link: '<a class="wikilink" title="care debt" href="https://sv.wiktionary.org/wiki/vårdskuld”',},];

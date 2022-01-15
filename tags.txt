@@ -1,7 +1,8 @@
 
 #anatomi
 #HUS
-#TTP#ITP
+#TTP
+#ITP
 #nefropatika_epidemika
 #vaccination
 #protein_synthesis
@@ -20,7 +21,8 @@
 #anti_CCP
 #inheritance
 #automosal_dominant
-#automosal_dominant#automosal_recessive
+#automosal_dominant
+#automosal_recessive
 #diapedesis 
 #leucyte 
 #inflammation
@@ -128,8 +130,7 @@ Transient global amnesia #transient_global_amnesia
 #whiplash_disorder
 #hypothyroidism
 #hyperthyroidism
-#https://www.google.com/url?sa=i
-underarm #underarm
+#underarm
 #multiple_endocrine_neoplasias
 #aminoacids
 #catecholamine
@@ -174,7 +175,6 @@ underarm #underarm
 #neurologi_medvetslöshet
 #sed
 #konus
-#eos_quia_omnis_qui_blanditiis_laborum._sed_error_fugiat_doloremque._sed_ut_et_quas_rerum_quasi_voluptatem_doloremque_excepturi._ut_sit_porro_autem_occaecati_id_expedita_quia._dolor_similique_vel_nesciunt_aspernatur_fuga_natus_aut_et._veniam_ut_cumque_quis_ut.perspiciatis_quam_eum_eveniet_rem_et_sint_id_voluptates._quaerat_voluptatem_ut_alias_voluptatum_qui_ab_tempore_ut._molestiae_odio_consequatur_ut_maxime_impedit._numquam_voluptatem_velit_iste_dignissimos_molestias_et._aliquam_et_ullam_voluptatem_corrupti_fugit_ullam_quia_consequatur._quia_sapiente_ab_dolore_velit_sed_odit_eum.eos_quia_omnis_qui_blanditiis_laborum._sed_error_fugiat_doloremque._sed_ut_et_quas_rerum_quasi_voluptatem_doloremque_excepturi._ut_sit_porro_autem_occaecati_id_expedita_quia._dolor_similique_vel_nesciunt_aspernatur_fuga_natus_aut_et._veniam_ut_cumque_quis_ut.perspiciatis_quam_eum_eveniet_rem_et_sint_id_voluptates._quaerat_voluptatem_ut_alias_voluptatum_qui_ab_tempore_ut._molestiae_odio_consequatur_ut_maxime_impedit._numquam_voluptatem_velit_iste_dignissimos_molestias_et._aliquam_et_ullam_voluptatem_corrupti_fugit_ullam_quia_consequatur._quia_sapiente_ab_dolore_velit_sed_odit_eum.eos_quia_omnis_qui_blanditiis_laborum._sed_error_fugiat_doloremque._sed_ut_et_quas_rerum_quasi_voluptatem_doloremque_excepturi._ut_sit_porro_autem_occaecati_id_expedita_quia._dolor_similique_vel_nesciunt_aspernatur_fuga_natus_aut_et._veniam_ut_cumque_quis_ut.
 #skimpdf
 #vimwiki
 #goku
@@ -186,6 +186,8 @@ underarm #underarm
 #visual_studio_code
 #graph_analysis
 #markdown
-#markdown #%v3%
 #blog
 #ilginc_bloglar
+#svensk_ordbook
+#svensk_resources
+#blender
