@@ -122,9 +122,9 @@ polymyosit #polymyosit
 #thrombolysis
 #gastrinoma
 #artery
-Epithelial cell junctions #epithelial_cell_junctions
+#epithelial_cell_junctions
 #hemidesmosome
-Transient global amnesia #transient_global_amnesia
+#transient_global_amnesia
 #dna
 #rna
 #whiplash_disorder
