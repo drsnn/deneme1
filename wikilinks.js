@@ -12,7 +12,7 @@
 // @copyright      JoeSimmons
 // @version  20220115163650598105499
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
-// @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/wikilinks.js
+// @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/wikilink.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/wikilink.js
 // ==/UserScript==
 
