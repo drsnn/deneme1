@@ -527,3 +527,13 @@ vårdskuld  ;Alla verkar överens om att det behövs extra åtgärder för att f
 bivax  ;
 
 bivax  ; {{c1::bivax}}  Ost? Nej det här är {{c1::bivax}} .;  beeswax : Bivax Ost? No, this is beeswax. ;  <a href=https://www.hant.se/life/loss-slaktrester-och-bivax-har-ar-specialingredienserna-i-ditt-paskgodis/4986680>link</a> ;  ;
+
+miljöboven  ;
+
+miljöboven  ; Palmolja  Den absolut största {{c1::miljöboven}} öboven i godis är palmolja, som bland annat kan finnas i choklad.;  the environmental culprit : Palm oil The absolute biggest environmental culprit in sweets is palm oil, which can be found in chocolate, among other things. ;  <a href=https://www.hant.se/life/loss-slaktrester-och-bivax-har-ar-specialingredienserna-i-ditt-paskgodis/4986680>link</a> ;  ;
+
+ärr  ; Behandling Somliga {{c1::ärr}} kan avlägsnas kirurgiskt med laser, men {{c1::ärr}} som går riktigt djupt, till exempel in i muskulatur, kan ej tas bort helt, på grund av att om man går så djupt med laser vid en operation skulle det i sig orsaka ännu ett {{c1::ärr}}.;  Treatment Some scars can be removed surgically with a laser, but scars that go really deep, for example into muscles, can not be removed completely, because if you go so deep with a laser during an operation, it would in itself cause another scar.;  <a href=https://sv.wikipedia.org/wiki/%C3%84rr>link</a> ;  ;
+
+jordskredet  ; Hon kände hur hennes hus började skaka av {{c1::jordskredet}} .;  landslide : She felt her house begin to shake from the landslide. ;  <a href=https://8sidor.se/varlden/2022/02/minst-24-doda-i-jordskred/>link</a> ;  ;
+
+brant  ;

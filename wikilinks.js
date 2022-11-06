@@ -10,7 +10,7 @@
 // @exclude        https://userscripts-mirror.org/scripts/edit/*
 // @exclude        https://userscripts-mirror.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version  20220115163650598105499
+// @version  20220202131337476171169
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL    https://raw.githubusercontent.com/drsnn/deneme1/master/wikilink.js
 // @updateURL      https://raw.githubusercontent.com/drsnn/deneme1/master/wikilink.js
@@ -240,4 +240,7 @@ var words = [
 {word: 'brevlådorna', link: '<a class="wikilink" title="the mailboxes" href="https://sv.wiktionary.org/wiki/brevlådorna"',},
 {word: 'troligen', link: '<a class="wikilink" title="probably" href="https://sv.wiktionary.org/wiki/troligen”',},
 {word: 'vårdskuld', link: '<a class="wikilink" title="care debt" href="https://sv.wiktionary.org/wiki/vårdskuld”',},
-{word: 'bivax', link: '<a class="wikilink" title="beeswax" href="https://sv.wiktionary.org/wiki/bivax”',},];
+{word: 'bivax', link: '<a class="wikilink" title="beeswax" href="https://sv.wiktionary.org/wiki/bivax”',},
+{word: 'miljöboven', link: '<a class="wikilink" title="the environmental culprit" href="https://sv.wiktionary.org/wiki/miljöboven”',},
+{word: 'ärr', link: '<a class="wikilink" title="scar" href="https://sv.wiktionary.org/wiki/ärr”',},
+{word: 'jordskredet', link: '<a class="wikilink" title="landslide" href="https://sv.wiktionary.org/wiki/jordskredet”',},];
